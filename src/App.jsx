@@ -157,6 +157,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
+      <img src="/imagenes/logo.png" alt="Mi Imagen" />
         <h1>Mel Creaciones</h1>
         <div className="header-stats">
           <span>{productosOrdenados.length} productos únicos</span>
