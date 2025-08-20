@@ -57,6 +57,23 @@ npm run start
 npm run dev
 ```
 
+### 🔐 Gestión de Autenticación
+
+#### Verificar estado de autenticación
+```bash
+curl https://tu-dominio.vercel.app/api/auth/status
+```
+
+#### Renovar token manualmente
+```bash
+curl -X POST https://tu-dominio.vercel.app/api/auth/refresh
+```
+
+#### Actualizar productos via API
+```bash
+curl -X POST https://tu-dominio.vercel.app/api/updateProducts
+```
+
 ## 📁 Estructura del proyecto
 
 ```
@@ -74,18 +91,58 @@ WebFloreSecas/
 
 ## 🔧 Configuración
 
-### Token de Mercado Libre
+### 🔐 Autenticación Automática (NUEVO)
 
-Para obtener un token de acceso:
+El sistema ahora maneja automáticamente la renovación de tokens de Mercado Libre. Para configurarlo:
+
+#### 1. Configurar Variables de Entorno
+
+**Para desarrollo local:**
+```bash
+# Crear archivo .env.local
+cp .env.example .env.local
+# Editar con tus credenciales
+```
+
+**Para Vercel:**
+1. Ve al dashboard de tu proyecto en Vercel
+2. Settings → Environment Variables
+3. Agrega las siguientes variables:
+
+```bash
+MERCADOLIBRE_CLIENT_ID=tu_client_id_aqui
+MERCADOLIBRE_CLIENT_SECRET=tu_client_secret_aqui
+MERCADOLIBRE_ACCESS_TOKEN=tu_access_token_aqui
+MERCADOLIBRE_REFRESH_TOKEN=tu_refresh_token_aqui
+MERCADOLIBRE_USER_ID=tu_user_id_aqui
+```
+
+#### 2. Obtener Credenciales
 
 1. Ve a [Mercado Libre Developers](https://developers.mercadolibre.com.ar/)
-2. Crea una aplicación
-3. Obtén el token de acceso
-4. Reemplaza en `src/extraer_productos.js`:
-   ```javascript
-   const ACCESS_TOKEN = "TU_TOKEN_AQUI";
-   const TARGET_USER_ID = "ID_DEL_VENDEDOR";
-   ```
+2. Crea una nueva aplicación
+3. Sigue el proceso de autorización OAuth
+4. Obtén los tokens necesarios
+
+#### 3. Documentación Completa
+
+Consulta la documentación detallada en: [`docs/AUTHENTICATION.md`](docs/AUTHENTICATION.md)
+
+### 🔄 Renovación Automática
+
+El sistema incluye:
+- ✅ Renovación automática de tokens antes de expirar
+- ✅ Reintento inteligente en caso de errores
+- ✅ Endpoints de gestión: `/api/auth/status`, `/api/auth/refresh`
+- ✅ Manejo de errores robusto
+
+### 📋 Configuración Manual (Legacy)
+
+Si prefieres la configuración manual, edita `src/extraer_productos.js`:
+```javascript
+const ACCESS_TOKEN = "TU_TOKEN_AQUI";
+const TARGET_USER_ID = "ID_DEL_VENDEDOR";
+```
 
 ## 📊 Datos extraídos
 

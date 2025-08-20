@@ -2,14 +2,14 @@ import axios from 'axios';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
+import mercadolibreAuth from './auth/mercadolibre-auth.js';
 
 // Obtener __dirname en ES modules
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-// 🔑 Configuración
-const TARGET_USER_ID = "480338095";
-const ACCESS_TOKEN = "APP_USR-5058690951936208-081909-7d250ef5a1a6d79a039b15097e70b768-480338095";
+// 🔑 Configuración - Ahora usando variables de entorno
+const TARGET_USER_ID = process.env.MERCADOLIBRE_USER_ID || "480338095";
 
 // 🛍️ Función principal para obtener todos los productos
 async function getAllProducts() {
@@ -17,7 +17,14 @@ async function getAllProducts() {
     console.log("🚀 INICIANDO OBTENCIÓN DE PRODUCTOS");
     console.log("=" .repeat(50));
     console.log(`👤 Usuario objetivo: ${TARGET_USER_ID}`);
-    console.log(`🔑 Token: ${ACCESS_TOKEN.substring(0, 20)}...`);
+    
+    // Verificar autenticación antes de comenzar
+    console.log("\n🔐 Verificando autenticación...");
+    const authStatus = await mercadolibreAuth.checkAuthStatus();
+    if (!authStatus.authenticated) {
+      throw new Error(`Error de autenticación: ${authStatus.error}`);
+    }
+    console.log(`✅ Autenticado como: ${authStatus.nickname} (ID: ${authStatus.userId})`);
     
     // Paso 1: Obtener lista completa de productos
     console.log("\n📋 Paso 1: Obteniendo lista de productos...");
@@ -60,16 +67,15 @@ async function getAllProductIds() {
     try {
       console.log(`  📄 Página ${Math.floor(offset/limit) + 1} (offset: ${offset})...`);
       
-      const response = await axios.get(
-        `https://api.mercadolibre.com/users/${TARGET_USER_ID}/items/search`,
-        {
-          headers: { 'Authorization': `Bearer ${ACCESS_TOKEN}` },
-          params: { limit, offset },
-          timeout: 15000
-        }
+      // Usar el sistema de autenticación automática
+      const response = await mercadolibreAuth.authenticatedRequest(
+        'GET',
+        `/users/${TARGET_USER_ID}/items/search`,
+        null,
+        { limit, offset }
       );
       
-      const pageIds = response.data.results;
+      const pageIds = response.results;
       console.log(`    ✅ ${pageIds.length} productos en esta página`);
       
       if (pageIds.length === 0) {
@@ -133,19 +139,12 @@ async function getProductsDetails(productIds) {
 // 🔍 Función para obtener detalles de un producto específico
 async function getProductDetail(itemId) {
   try {
-    // Intentar primero con autenticación
+    // Intentar primero con autenticación automática
     let itemData;
     let accessMethod = "autenticado";
     
     try {
-      const response = await axios.get(
-        `https://api.mercadolibre.com/items/${itemId}`,
-        {
-          headers: { 'Authorization': `Bearer ${ACCESS_TOKEN}` },
-          timeout: 12000
-        }
-      );
-      itemData = response.data;
+      itemData = await mercadolibreAuth.authenticatedRequest('GET', `/items/${itemId}`);
     } catch (authError) {
       if (authError.response?.status === 403) {
         // Si falla con autenticación, intentar acceso público
@@ -164,14 +163,16 @@ async function getProductDetail(itemId) {
     // Obtener descripción
     let descripcion = "Sin descripción disponible";
     try {
-      const descResponse = await axios.get(
-        `https://api.mercadolibre.com/items/${itemId}/description`,
-        { 
-          headers: accessMethod === "autenticado" ? { 'Authorization': `Bearer ${ACCESS_TOKEN}` } : {},
-          timeout: 8000 
-        }
-      );
-      descripcion = descResponse.data.plain_text || descResponse.data.text || "Sin descripción";
+      if (accessMethod === "autenticado") {
+        const descData = await mercadolibreAuth.authenticatedRequest('GET', `/items/${itemId}/description`);
+        descripcion = descData.plain_text || descData.text || "Sin descripción";
+      } else {
+        const descResponse = await axios.get(
+          `https://api.mercadolibre.com/items/${itemId}/description`,
+          { timeout: 8000 }
+        );
+        descripcion = descResponse.data.plain_text || descResponse.data.text || "Sin descripción";
+      }
       descripcion = descripcion.substring(0, 500); // Limitar longitud
     } catch (descError) {
       // Descripción no disponible, continuar
@@ -338,7 +339,12 @@ console.log("🛒 EXTRACTOR DE PRODUCTOS DE MERCADOLIBRE");
 console.log("=" .repeat(60));
 console.log("🔍 Verificando configuración...");
 console.log(`   Usuario objetivo: ${TARGET_USER_ID}`);
-console.log(`   Token: ${ACCESS_TOKEN.substring(0, 20)}...`);
+
+// Mostrar configuración de autenticación
+const authConfig = mercadolibreAuth.getConfig();
+console.log(`   Client ID: ${authConfig.clientId ? '✅ Configurado' : '❌ Faltante'}`);
+console.log(`   Access Token: ${authConfig.hasAccessToken ? '✅ Configurado' : '❌ Faltante'}`);
+console.log(`   Token expirado: ${authConfig.isTokenExpired ? '⚠️  Sí' : '✅ No'}`);
 console.log("");
 
 getAllProducts()
@@ -360,5 +366,5 @@ export {
   getAllProducts,
   loadProductsFromJSON,
   TARGET_USER_ID,
-  ACCESS_TOKEN
+  mercadolibreAuth
 };
