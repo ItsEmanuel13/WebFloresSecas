@@ -1,12 +1,12 @@
 {
   "resumen": {
-    "fecha_extraccion": "2025-08-19T18:59:33.884Z",
+    "fecha_extraccion": "2026-01-20T15:57:24.635Z",
     "usuario_objetivo": "480338095",
     "total_productos": 129,
     "productos_por_estado": {
-      "under_review": 1,
-      "paused": 85,
-      "active": 43
+      "under_review": 2,
+      "paused": 81,
+      "active": 46
     },
     "productos_por_condicion": {
       "new": 129
@@ -14,7 +14,7 @@
     "rango_precios": {
       "minimo": 95,
       "maximo": 1600,
-      "promedio": 556.9767441860465
+      "promedio": 563.0232558139535
     }
   },
   "productos": [
@@ -30,10 +30,10 @@
       "stock_disponible": 2,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-476452375-ramo-de-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_714049-MLU76655085503_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_714049-MLU76655085503_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_714049-MLU76655085503_052024-F.jpg",
-        "https://http2.mlstatic.com/D_718097-MLU76458726378_052024-F.jpg"
+        "https://http2.mlstatic.com/D_714049-MLU76655085503_052024-O.jpg",
+        "https://http2.mlstatic.com/D_718097-MLU76458726378_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -76,13 +76,15 @@
       "stock_disponible": 0,
       "vendidos": 4,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-476257243-ramo-de-flores-secas-statice-colores-naturales-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_726960-MLU44167209579_112020-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_726960-MLU44167209579_112020-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_726960-MLU44167209579_112020-F.jpg",
-        "https://http2.mlstatic.com/D_975288-MLU44167260162_112020-F.jpg",
-        "https://http2.mlstatic.com/D_934329-MLU44167175844_112020-F.jpg",
-        "https://http2.mlstatic.com/D_692435-MLU44167222533_112020-F.jpg",
-        "https://http2.mlstatic.com/D_620435-MLU44167209604_112020-F.jpg"
+        "https://http2.mlstatic.com/D_726960-MLU44167209579_112020-O.jpg",
+        "https://http2.mlstatic.com/D_975288-MLU44167260162_112020-O.jpg",
+        "https://http2.mlstatic.com/D_934329-MLU44167175844_112020-O.jpg",
+        "https://http2.mlstatic.com/D_692435-MLU44167222533_112020-O.jpg",
+        "https://http2.mlstatic.com/D_620435-MLU44167209604_112020-O.jpg",
+        "https://http2.mlstatic.com/D_813270-MLU44167222555_112020-O.jpg",
+        "https://http2.mlstatic.com/D_612520-MLU44167245342_112020-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -125,12 +127,12 @@
       "stock_disponible": 1,
       "vendidos": 4,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-476602474-ramo-de-flores-secas-y-espigas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_899703-MLU76654758919_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_899703-MLU76654758919_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_899703-MLU76654758919_052024-F.jpg",
-        "https://http2.mlstatic.com/D_842048-MLU76654779651_052024-F.jpg",
-        "https://http2.mlstatic.com/D_609227-MLU83911948367_042025-F.jpg",
-        "https://http2.mlstatic.com/D_787702-MLU83618703206_042025-F.jpg"
+        "https://http2.mlstatic.com/D_899703-MLU76654758919_052024-O.jpg",
+        "https://http2.mlstatic.com/D_842048-MLU76654779651_052024-O.jpg",
+        "https://http2.mlstatic.com/D_609227-MLU83911948367_042025-O.jpg",
+        "https://http2.mlstatic.com/D_787702-MLU83618703206_042025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -173,10 +175,10 @@
       "stock_disponible": 0,
       "vendidos": 6,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-476823557-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_842306-MLU44470874631_012021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_842306-MLU44470874631_012021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_842306-MLU44470874631_012021-F.jpg",
-        "https://http2.mlstatic.com/D_843782-MLU44470873754_012021-F.jpg"
+        "https://http2.mlstatic.com/D_842306-MLU44470874631_012021-O.jpg",
+        "https://http2.mlstatic.com/D_843782-MLU44470873754_012021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -219,9 +221,9 @@
       "stock_disponible": 2,
       "vendidos": 7,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-476452103-espigas-de-trigo-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_715044-MLU76709165174_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_715044-MLU76709165174_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_715044-MLU76709165174_062024-F.jpg"
+        "https://http2.mlstatic.com/D_715044-MLU76709165174_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -261,17 +263,17 @@
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 1,
+      "stock_disponible": 3,
       "vendidos": 27,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-477660817-flores-secas-mini-ideales-para-manualidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_695707-MLU76534771972_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_695707-MLU76534771972_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_695707-MLU76534771972_052024-F.jpg"
+        "https://http2.mlstatic.com/D_695707-MLU76534771972_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-02-17T03:59:28.000Z",
-      "ultima_actualizacion": "2025-07-07T22:57:43.609Z",
+      "ultima_actualizacion": "2026-01-15T20:43:28.141Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -304,20 +306,20 @@
       "precio": 400,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 1,
+      "stock_disponible": 2,
       "vendidos": 4,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-477660493-flores-secas-para-decoracion-manualidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_697603-MLU76938336058_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_697603-MLU76938336058_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_697603-MLU76938336058_062024-F.jpg",
-        "https://http2.mlstatic.com/D_644741-MLU76938220304_062024-F.jpg"
+        "https://http2.mlstatic.com/D_697603-MLU76938336058_062024-O.jpg",
+        "https://http2.mlstatic.com/D_644741-MLU76938220304_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-02-17T03:39:21.000Z",
-      "ultima_actualizacion": "2025-07-29T01:27:59.250Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.672Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -355,10 +357,10 @@
       "stock_disponible": 1,
       "vendidos": 4,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-477663470-arreglo-floral-centro-de-mesa-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_742306-MLU76457701772_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_742306-MLU76457701772_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_742306-MLU76457701772_052024-F.jpg",
-        "https://http2.mlstatic.com/D_753521-MLU76458039190_052024-F.jpg"
+        "https://http2.mlstatic.com/D_742306-MLU76457701772_052024-O.jpg",
+        "https://http2.mlstatic.com/D_753521-MLU76458039190_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -401,12 +403,12 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-477843949-arreglo-flores-secas-y-espigas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_808648-MLU49213942463_022022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_808648-MLU49213942463_022022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_808648-MLU49213942463_022022-F.jpg",
-        "https://http2.mlstatic.com/D_918577-MLU49214010161_022022-F.jpg",
-        "https://http2.mlstatic.com/D_672495-MLU49214036047_022022-F.jpg",
-        "https://http2.mlstatic.com/D_774810-MLU49213956412_022022-F.jpg"
+        "https://http2.mlstatic.com/D_808648-MLU49213942463_022022-O.jpg",
+        "https://http2.mlstatic.com/D_918577-MLU49214010161_022022-O.jpg",
+        "https://http2.mlstatic.com/D_672495-MLU49214036047_022022-O.jpg",
+        "https://http2.mlstatic.com/D_774810-MLU49213956412_022022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -444,20 +446,20 @@
       "precio": 400,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 0,
+      "stock_disponible": 2,
       "vendidos": 7,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-477843862-flores-secas-para-arreglos-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_842980-MLU76930543458_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_842980-MLU76930543458_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_842980-MLU76930543458_062024-F.jpg",
-        "https://http2.mlstatic.com/D_628198-MLU77140208907_062024-F.jpg"
+        "https://http2.mlstatic.com/D_842980-MLU76930543458_062024-O.jpg",
+        "https://http2.mlstatic.com/D_628198-MLU77140208907_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-03-01T00:58:12.000Z",
-      "ultima_actualizacion": "2025-07-21T19:40:03.804Z",
+      "ultima_actualizacion": "2026-01-15T20:55:07.106Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -495,12 +497,12 @@
       "stock_disponible": 2,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-477843805-flores-secas-siemprevivas-50-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_844450-MLU82275510251_022025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_844450-MLU82275510251_022025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_844450-MLU82275510251_022025-F.jpg",
-        "https://http2.mlstatic.com/D_948686-MLU81994005058_022025-F.jpg",
-        "https://http2.mlstatic.com/D_658505-MLU82275667245_022025-F.jpg",
-        "https://http2.mlstatic.com/D_788236-MLU82275510273_022025-F.jpg"
+        "https://http2.mlstatic.com/D_844450-MLU82275510251_022025-O.jpg",
+        "https://http2.mlstatic.com/D_948686-MLU81994005058_022025-O.jpg",
+        "https://http2.mlstatic.com/D_658505-MLU82275667245_022025-O.jpg",
+        "https://http2.mlstatic.com/D_788236-MLU82275510273_022025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -543,11 +545,11 @@
       "stock_disponible": 1,
       "vendidos": 7,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-477842760-espigas-de-moha-100-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_692836-MLU76709166500_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_692836-MLU76709166500_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_692836-MLU76709166500_062024-F.jpg",
-        "https://http2.mlstatic.com/D_833128-MLU76709059914_062024-F.jpg",
-        "https://http2.mlstatic.com/D_687206-MLU76709166562_062024-F.jpg"
+        "https://http2.mlstatic.com/D_692836-MLU76709166500_062024-O.jpg",
+        "https://http2.mlstatic.com/D_833128-MLU76709059914_062024-O.jpg",
+        "https://http2.mlstatic.com/D_687206-MLU76709166562_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -590,13 +592,13 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-477663555-arreglo-floral-artesanal-en-canasta-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_924371-MLU44912422258_022021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_924371-MLU44912422258_022021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_924371-MLU44912422258_022021-F.jpg",
-        "https://http2.mlstatic.com/D_875947-MLU44912425144_022021-F.jpg",
-        "https://http2.mlstatic.com/D_808850-MLU44912425146_022021-F.jpg",
-        "https://http2.mlstatic.com/D_622390-MLU44912405669_022021-F.jpg",
-        "https://http2.mlstatic.com/D_934974-MLU44912417359_022021-F.jpg"
+        "https://http2.mlstatic.com/D_924371-MLU44912422258_022021-O.jpg",
+        "https://http2.mlstatic.com/D_875947-MLU44912425144_022021-O.jpg",
+        "https://http2.mlstatic.com/D_808850-MLU44912425146_022021-O.jpg",
+        "https://http2.mlstatic.com/D_622390-MLU44912405669_022021-O.jpg",
+        "https://http2.mlstatic.com/D_934974-MLU44912417359_022021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -631,25 +633,25 @@
       "id": "MLU478528904",
       "titulo": "Flores Secas Y Espigas Para Manualidades , Artesanias ",
       "descripcion": "Caja con 14 diferentes variedades de flores y espigas para manualidades , decoracion , artesanias .",
-      "precio": 740,
+      "precio": 760,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
       "stock_disponible": 2,
-      "vendidos": 18,
+      "vendidos": 22,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-478528904-flores-secas-y-espigas-para-manualidades-artesanias-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_815796-MLU81736870744_012025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_815796-MLU81736870744_012025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_815796-MLU81736870744_012025-F.jpg",
-        "https://http2.mlstatic.com/D_758869-MLU81736870716_012025-F.jpg",
-        "https://http2.mlstatic.com/D_909475-MLU81736773890_012025-F.jpg",
-        "https://http2.mlstatic.com/D_804685-MLU82015218879_012025-F.jpg"
+        "https://http2.mlstatic.com/D_815796-MLU81736870744_012025-O.jpg",
+        "https://http2.mlstatic.com/D_758869-MLU81736870716_012025-O.jpg",
+        "https://http2.mlstatic.com/D_909475-MLU81736773890_012025-O.jpg",
+        "https://http2.mlstatic.com/D_804685-MLU82015218879_012025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-04-05T02:51:12.000Z",
-      "ultima_actualizacion": "2025-06-30T13:18:45.444Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.397Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -683,22 +685,22 @@
       "id": "MLU476800390",
       "titulo": "Flores Secas",
       "descripcion": "100 flores ( siemprevivas sin tallo) de 2,5 a 3,5 cm diametro de flor aprox . Ideales para resina , velas , manualidades . Colores surtidos",
-      "precio": 580,
+      "precio": 550,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
       "stock_disponible": 2,
       "vendidos": 10,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-476800390-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_760955-MLU78959764608_092024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_760955-MLU78959764608_092024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_760955-MLU78959764608_092024-F.jpg"
+        "https://http2.mlstatic.com/D_760955-MLU78959764608_092024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2020-12-30T17:18:05.000Z",
-      "ultima_actualizacion": "2025-07-07T23:06:19.369Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.312Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -736,13 +738,13 @@
       "stock_disponible": 1,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-478769344-flores-secas-50-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_990655-MLU46276751495_062021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_990655-MLU46276751495_062021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_990655-MLU46276751495_062021-F.jpg",
-        "https://http2.mlstatic.com/D_622521-MLU45602949846_042021-F.jpg",
-        "https://http2.mlstatic.com/D_997406-MLU46276808078_062021-F.jpg",
-        "https://http2.mlstatic.com/D_946965-MLU45602961244_042021-F.jpg",
-        "https://http2.mlstatic.com/D_641047-MLU45602955651_042021-F.jpg"
+        "https://http2.mlstatic.com/D_990655-MLU46276751495_062021-O.jpg",
+        "https://http2.mlstatic.com/D_622521-MLU45602949846_042021-O.jpg",
+        "https://http2.mlstatic.com/D_997406-MLU46276808078_062021-O.jpg",
+        "https://http2.mlstatic.com/D_946965-MLU45602961244_042021-O.jpg",
+        "https://http2.mlstatic.com/D_641047-MLU45602955651_042021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -785,13 +787,14 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-478769320-flores-secas-50-unidades-tonos-amarillos-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_905957-MLU46276774166_062021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_905957-MLU46276774166_062021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_905957-MLU46276774166_062021-F.jpg",
-        "https://http2.mlstatic.com/D_619434-MLU46276733438_062021-F.jpg",
-        "https://http2.mlstatic.com/D_874579-MLU45602920957_042021-F.jpg",
-        "https://http2.mlstatic.com/D_687068-MLU46276784082_062021-F.jpg",
-        "https://http2.mlstatic.com/D_870376-MLU46276780064_062021-F.jpg"
+        "https://http2.mlstatic.com/D_905957-MLU46276774166_062021-O.jpg",
+        "https://http2.mlstatic.com/D_619434-MLU46276733438_062021-O.jpg",
+        "https://http2.mlstatic.com/D_874579-MLU45602920957_042021-O.jpg",
+        "https://http2.mlstatic.com/D_687068-MLU46276784082_062021-O.jpg",
+        "https://http2.mlstatic.com/D_870376-MLU46276780064_062021-O.jpg",
+        "https://http2.mlstatic.com/D_859664-MLU46276662941_062021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -825,23 +828,23 @@
     {
       "id": "MLU478769251",
       "titulo": "Flores Secas Colores Surtidos",
-      "descripcion": "35 unidades de flores secas ( siemprevivas) .\nColores naturales : rojos , amarillos, rosados y fucsias.\nDiametro de la flor de 2,5a 3,5 cm .\nLargo del tallo : de 30 a 35 cm .\n Ideales para armar arreglos .\n En lugar libre de humedad duran mucho tiempo sin alteraraciones.",
+      "descripcion": "35 unidades de flores secas ( siemprevivas) .\nColores naturales , tonos : rojos , amarillos, rosados y fucsias.\nDiametro de la flor de 3 a 4,5 cm .\nLargo del tallo : de 30 a 35 cm .\n Ideales para armar arreglos .\n En lugar libre de humedad duran mucho tiempo sin alteraraciones.",
       "precio": 450,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
       "stock_disponible": 2,
       "vendidos": 12,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-478769251-flores-secas-colores-surtidos-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_835337-MLU76516531159_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_835337-MLU76516531159_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_835337-MLU76516531159_052024-F.jpg"
+        "https://http2.mlstatic.com/D_835337-MLU76516531159_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-04-17T00:43:17.000Z",
-      "ultima_actualizacion": "2025-07-07T22:46:11.311Z",
+      "ultima_actualizacion": "2026-01-20T05:35:31.517Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -879,12 +882,12 @@
       "stock_disponible": 0,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-478987904-ramo-de-flores-secas-oferta-x-2-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_635070-MLU45747089856_042021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_635070-MLU45747089856_042021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_635070-MLU45747089856_042021-F.jpg",
-        "https://http2.mlstatic.com/D_735911-MLU45738629729_042021-F.jpg",
-        "https://http2.mlstatic.com/D_991836-MLU46383448828_062021-F.jpg",
-        "https://http2.mlstatic.com/D_994094-MLU46383438811_062021-F.jpg"
+        "https://http2.mlstatic.com/D_635070-MLU45747089856_042021-O.jpg",
+        "https://http2.mlstatic.com/D_735911-MLU45738629729_042021-O.jpg",
+        "https://http2.mlstatic.com/D_991836-MLU46383448828_062021-O.jpg",
+        "https://http2.mlstatic.com/D_994094-MLU46383438811_062021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -927,9 +930,9 @@
       "stock_disponible": 2,
       "vendidos": 5,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-477661024-flores-secas-pequenas-160-unidades-manualidades--_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_633588-MLU49750172047_042022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_633588-MLU49750172047_042022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_633588-MLU49750172047_042022-F.jpg"
+        "https://http2.mlstatic.com/D_633588-MLU49750172047_042022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -972,12 +975,12 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480094040-ramo-de-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_605921-MLU46383444525_062021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_605921-MLU46383444525_062021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_605921-MLU46383444525_062021-F.jpg",
-        "https://http2.mlstatic.com/D_734234-MLU46383444527_062021-F.jpg",
-        "https://http2.mlstatic.com/D_912769-MLU46383441535_062021-F.jpg",
-        "https://http2.mlstatic.com/D_767604-MLU46383418791_062021-F.jpg"
+        "https://http2.mlstatic.com/D_605921-MLU46383444525_062021-O.jpg",
+        "https://http2.mlstatic.com/D_734234-MLU46383444527_062021-O.jpg",
+        "https://http2.mlstatic.com/D_912769-MLU46383441535_062021-O.jpg",
+        "https://http2.mlstatic.com/D_767604-MLU46383418791_062021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1012,13 +1015,14 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480218239-5-atados-de-distintas-espigas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_886007-MLU46435230369_062021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_886007-MLU46435230369_062021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_886007-MLU46435230369_062021-F.jpg",
-        "https://http2.mlstatic.com/D_916865-MLU46435090991_062021-F.jpg",
-        "https://http2.mlstatic.com/D_995700-MLU46435254269_062021-F.jpg",
-        "https://http2.mlstatic.com/D_623409-MLU46435263283_062021-F.jpg",
-        "https://http2.mlstatic.com/D_749204-MLU46435206409_062021-F.jpg"
+        "https://http2.mlstatic.com/D_886007-MLU46435230369_062021-O.jpg",
+        "https://http2.mlstatic.com/D_916865-MLU46435090991_062021-O.jpg",
+        "https://http2.mlstatic.com/D_995700-MLU46435254269_062021-O.jpg",
+        "https://http2.mlstatic.com/D_623409-MLU46435263283_062021-O.jpg",
+        "https://http2.mlstatic.com/D_749204-MLU46435206409_062021-O.jpg",
+        "https://http2.mlstatic.com/D_658869-MLU46435260242_062021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1061,11 +1065,11 @@
       "stock_disponible": 2,
       "vendidos": 6,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480218276-espigas-3-atados-diferentes-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_944664-MLU70234638226_072023-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_944664-MLU70234638226_072023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_944664-MLU70234638226_072023-F.jpg",
-        "https://http2.mlstatic.com/D_729191-MLU70234443888_072023-F.jpg",
-        "https://http2.mlstatic.com/D_939695-MLU70234443916_072023-F.jpg"
+        "https://http2.mlstatic.com/D_944664-MLU70234638226_072023-O.jpg",
+        "https://http2.mlstatic.com/D_729191-MLU70234443888_072023-O.jpg",
+        "https://http2.mlstatic.com/D_939695-MLU70234443916_072023-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1108,13 +1112,14 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480515459-ramo-de-flores-secas-para-armar-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_657241-MLU46593650436_072021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_657241-MLU46593650436_072021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_657241-MLU46593650436_072021-F.jpg",
-        "https://http2.mlstatic.com/D_933028-MLU46593654480_072021-F.jpg",
-        "https://http2.mlstatic.com/D_690892-MLU46593719751_072021-F.jpg",
-        "https://http2.mlstatic.com/D_843702-MLU46595531053_072021-F.jpg",
-        "https://http2.mlstatic.com/D_712646-MLU46595526089_072021-F.jpg"
+        "https://http2.mlstatic.com/D_657241-MLU46593650436_072021-O.jpg",
+        "https://http2.mlstatic.com/D_933028-MLU46593654480_072021-O.jpg",
+        "https://http2.mlstatic.com/D_690892-MLU46593719751_072021-O.jpg",
+        "https://http2.mlstatic.com/D_843702-MLU46595531053_072021-O.jpg",
+        "https://http2.mlstatic.com/D_712646-MLU46595526089_072021-O.jpg",
+        "https://http2.mlstatic.com/D_663100-MLU46595430670_072021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1149,7 +1154,7 @@
       "id": "MLU480533743",
       "titulo": "Ramo De Flores Secas Para Armar",
       "descripcion": "Flores secas y espigas para armar un arreglo como el de las fotos .\nContiene : \nEspigas de trigo 30 unidades\nEspigas de moha 30 un\nEspigas de alpiste 30 un\nStatice blanca 10 un\nSiemprevivas en tonos rosados y fucsias 18 unidades.\nSe puede cambiar el tono de las flores por amarillos , previa coordinación.\nAltura de las espigas 40 cm aprox.\nNO incluye florero.",
-      "precio": 1500,
+      "precio": 1450,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
@@ -1157,18 +1162,18 @@
       "stock_disponible": 3,
       "vendidos": 3,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480533743-ramo-de-flores-secas-para-armar-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_849833-MLU77147662101_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_849833-MLU77147662101_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_849833-MLU77147662101_062024-F.jpg",
-        "https://http2.mlstatic.com/D_979076-MLU77147704335_062024-F.jpg",
-        "https://http2.mlstatic.com/D_613370-MLU77148026067_062024-F.jpg",
-        "https://http2.mlstatic.com/D_912332-MLU76938250462_062024-F.jpg",
-        "https://http2.mlstatic.com/D_949663-MLU76938524756_062024-F.jpg"
+        "https://http2.mlstatic.com/D_849833-MLU77147662101_062024-O.jpg",
+        "https://http2.mlstatic.com/D_979076-MLU77147704335_062024-O.jpg",
+        "https://http2.mlstatic.com/D_613370-MLU77148026067_062024-O.jpg",
+        "https://http2.mlstatic.com/D_912332-MLU76938250462_062024-O.jpg",
+        "https://http2.mlstatic.com/D_949663-MLU76938524756_062024-O.jpg"
       ],
-      "categoria_id": "MLU1643",
+      "categoria_id": "MLU412644",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-07-03T14:29:56.000Z",
-      "ultima_actualizacion": "2025-07-08T00:05:13.796Z",
+      "ultima_actualizacion": "2026-01-16T16:28:56.465Z",
       "envio_gratis": true,
       "metodos_envio": [],
       "ubicacion": {
@@ -1180,6 +1185,10 @@
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
+        },
+        {
+          "nombre": "Formato de la flor",
+          "valor": "Secas"
         },
         {
           "nombre": "Condición del ítem",
@@ -1206,13 +1215,13 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480642130-arreglo-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_855200-MLU46697777573_072021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_855200-MLU46697777573_072021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_855200-MLU46697777573_072021-F.jpg",
-        "https://http2.mlstatic.com/D_618957-MLU46697823001_072021-F.jpg",
-        "https://http2.mlstatic.com/D_626165-MLU46697812162_072021-F.jpg",
-        "https://http2.mlstatic.com/D_956886-MLU46697756872_072021-F.jpg",
-        "https://http2.mlstatic.com/D_620488-MLU46697792416_072021-F.jpg"
+        "https://http2.mlstatic.com/D_855200-MLU46697777573_072021-O.jpg",
+        "https://http2.mlstatic.com/D_618957-MLU46697823001_072021-O.jpg",
+        "https://http2.mlstatic.com/D_626165-MLU46697812162_072021-O.jpg",
+        "https://http2.mlstatic.com/D_956886-MLU46697756872_072021-O.jpg",
+        "https://http2.mlstatic.com/D_620488-MLU46697792416_072021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1252,18 +1261,18 @@
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 5,
-      "vendidos": 19,
+      "stock_disponible": 2,
+      "vendidos": 22,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480670003-flores-secas-siemprevivas-50-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_995890-MLU76915518393_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_995890-MLU76915518393_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_995890-MLU76915518393_062024-F.jpg",
-        "https://http2.mlstatic.com/D_718721-MLU76915452415_062024-F.jpg"
+        "https://http2.mlstatic.com/D_995890-MLU76915518393_062024-O.jpg",
+        "https://http2.mlstatic.com/D_718721-MLU76915452415_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-07-13T17:23:16.000Z",
-      "ultima_actualizacion": "2025-08-02T21:31:00.824Z",
+      "ultima_actualizacion": "2026-01-14T21:00:46.326Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -1303,20 +1312,21 @@
       "estado": "active",
       "condicion": "new",
       "stock_disponible": 2,
-      "vendidos": 96,
+      "vendidos": 100,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480698476-flores-secas-y-espigas-para-armar-ramitos-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_877285-MLU76116655741_042024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_877285-MLU76116655741_042024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_877285-MLU76116655741_042024-F.jpg",
-        "https://http2.mlstatic.com/D_826452-MLU75939760274_042024-F.jpg",
-        "https://http2.mlstatic.com/D_749027-MLU75939740386_042024-F.jpg",
-        "https://http2.mlstatic.com/D_702371-MLU75939975160_042024-F.jpg",
-        "https://http2.mlstatic.com/D_777962-MLU75939975186_042024-F.jpg"
+        "https://http2.mlstatic.com/D_877285-MLU76116655741_042024-O.jpg",
+        "https://http2.mlstatic.com/D_826452-MLU75939760274_042024-O.jpg",
+        "https://http2.mlstatic.com/D_749027-MLU75939740386_042024-O.jpg",
+        "https://http2.mlstatic.com/D_702371-MLU75939975160_042024-O.jpg",
+        "https://http2.mlstatic.com/D_777962-MLU75939975186_042024-O.jpg",
+        "https://http2.mlstatic.com/D_750091-MLU75939613468_042024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-07-14T22:59:23.000Z",
-      "ultima_actualizacion": "2025-07-15T00:46:38.210Z",
+      "ultima_actualizacion": "2026-01-14T12:06:23.428Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -1349,20 +1359,20 @@
       "precio": 520,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
-      "stock_disponible": 1,
-      "vendidos": 5,
+      "stock_disponible": 0,
+      "vendidos": 6,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480906522-flores-secas-prensadas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_626526-MLU89845732628_082025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_626526-MLU89845732628_082025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_626526-MLU89845732628_082025-F.jpg",
-        "https://http2.mlstatic.com/D_837415-MLU89845643630_082025-F.jpg"
+        "https://http2.mlstatic.com/D_626526-MLU89845732628_082025-O.jpg",
+        "https://http2.mlstatic.com/D_837415-MLU89845643630_082025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-07-26T12:42:09.000Z",
-      "ultima_actualizacion": "2025-08-15T23:38:56.192Z",
+      "ultima_actualizacion": "2025-10-23T02:13:29.511Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -1400,9 +1410,9 @@
       "stock_disponible": 1,
       "vendidos": 8,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480906288-flores-secas-prensadas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_936244-MLU78434795189_082024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_936244-MLU78434795189_082024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_936244-MLU78434795189_082024-F.jpg"
+        "https://http2.mlstatic.com/D_936244-MLU78434795189_082024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1445,9 +1455,9 @@
       "stock_disponible": 2,
       "vendidos": 2,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-481045839-flores-prensadas-mix-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_950838-MLU82104158605_012025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_950838-MLU82104158605_012025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_950838-MLU82104158605_012025-F.jpg"
+        "https://http2.mlstatic.com/D_950838-MLU82104158605_012025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1485,20 +1495,20 @@
       "precio": 450,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
-      "stock_disponible": 1,
-      "vendidos": 17,
+      "stock_disponible": 0,
+      "vendidos": 19,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-481045776-flores-secas-prensadas-resina-manualidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_730664-MLU89832255642_082025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_978458-MLU93753134713_092025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_730664-MLU89832255642_082025-F.jpg",
-        "https://http2.mlstatic.com/D_630576-MLU90223504331_082025-F.jpg"
+        "https://http2.mlstatic.com/D_978458-MLU93753134713_092025-O.jpg",
+        "https://http2.mlstatic.com/D_978517-MLU93334333782_092025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-08-01T13:26:41.000Z",
-      "ultima_actualizacion": "2025-08-15T23:31:12.400Z",
+      "ultima_actualizacion": "2025-10-23T02:13:28.809Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -1536,10 +1546,10 @@
       "stock_disponible": 2,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-481205742-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_808607-MLU47058900672_082021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_808607-MLU47058900672_082021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_808607-MLU47058900672_082021-F.jpg",
-        "https://http2.mlstatic.com/D_714644-MLU70500953784_072023-F.jpg"
+        "https://http2.mlstatic.com/D_808607-MLU47058900672_082021-O.jpg",
+        "https://http2.mlstatic.com/D_714644-MLU70500953784_072023-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1577,20 +1587,20 @@
       "precio": 550,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
-      "stock_disponible": 1,
-      "vendidos": 13,
+      "stock_disponible": 0,
+      "vendidos": 14,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-481300998-flores-secas-prensadas-variedad-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_873506-MLU89845700902_082025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_873506-MLU89845700902_082025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_873506-MLU89845700902_082025-F.jpg",
-        "https://http2.mlstatic.com/D_621976-MLU89845868548_082025-F.jpg"
+        "https://http2.mlstatic.com/D_873506-MLU89845700902_082025-O.jpg",
+        "https://http2.mlstatic.com/D_621976-MLU89845868548_082025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-08-17T14:01:44.000Z",
-      "ultima_actualizacion": "2025-08-15T23:35:19.700Z",
+      "ultima_actualizacion": "2025-10-24T02:08:45.000Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -1632,12 +1642,12 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-481327576-arreglo-flores-secas-centro-de-mesa-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_982264-MLU47148446513_082021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_982264-MLU47148446513_082021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_982264-MLU47148446513_082021-F.jpg",
-        "https://http2.mlstatic.com/D_873108-MLU47148459458_082021-F.jpg",
-        "https://http2.mlstatic.com/D_677484-MLU47148381783_082021-F.jpg",
-        "https://http2.mlstatic.com/D_949489-MLU47148400806_082021-F.jpg"
+        "https://http2.mlstatic.com/D_982264-MLU47148446513_082021-O.jpg",
+        "https://http2.mlstatic.com/D_873108-MLU47148459458_082021-O.jpg",
+        "https://http2.mlstatic.com/D_677484-MLU47148381783_082021-O.jpg",
+        "https://http2.mlstatic.com/D_949489-MLU47148400806_082021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1671,7 +1681,7 @@
     {
       "id": "MLU481401551",
       "titulo": "Flores Prensadas Tonos Azules",
-      "descripcion": "Sin descripción disponible",
+      "descripcion": null,
       "precio": 290,
       "moneda": "UYU",
       "precio_original": null,
@@ -1680,10 +1690,10 @@
       "stock_disponible": 0,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-481401551-flores-prensadas-tonos-azules-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_851960-MLU47205591931_082021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_851960-MLU47205591931_082021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_851960-MLU47205591931_082021-F.jpg",
-        "https://http2.mlstatic.com/D_971161-MLU47205694304_082021-F.jpg"
+        "https://http2.mlstatic.com/D_851960-MLU47205591931_082021-O.jpg",
+        "https://http2.mlstatic.com/D_971161-MLU47205694304_082021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1726,16 +1736,16 @@
       "stock_disponible": 2,
       "vendidos": 13,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-600075004-flores-secas-oferta-x-200-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_848539-MLU75872459571_042024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_848539-MLU75872459571_042024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_848539-MLU75872459571_042024-F.jpg",
-        "https://http2.mlstatic.com/D_675302-MLU75872749355_042024-F.jpg",
-        "https://http2.mlstatic.com/D_917634-MLU75872631201_042024-F.jpg"
+        "https://http2.mlstatic.com/D_848539-MLU75872459571_042024-O.jpg",
+        "https://http2.mlstatic.com/D_675302-MLU75872749355_042024-O.jpg",
+        "https://http2.mlstatic.com/D_917634-MLU75872631201_042024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-08-30T12:34:12.000Z",
-      "ultima_actualizacion": "2025-07-07T22:45:09.295Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.290Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -1773,9 +1783,9 @@
       "stock_disponible": 0,
       "vendidos": 5,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-600067887-flores-secas-oferta-x-220-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_997274-MLU76518862080_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_997274-MLU76518862080_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_997274-MLU76518862080_052024-F.jpg"
+        "https://http2.mlstatic.com/D_997274-MLU76518862080_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1813,20 +1823,20 @@
       "precio": 400,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
       "stock_disponible": 2,
       "vendidos": 8,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-600209028-flores-secas-50-unidades-tonos-rosa-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_699385-MLU79581475310_102024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_699385-MLU79581475310_102024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_699385-MLU79581475310_102024-F.jpg",
-        "https://http2.mlstatic.com/D_804913-MLU79581416234_102024-F.jpg"
+        "https://http2.mlstatic.com/D_699385-MLU79581475310_102024-O.jpg",
+        "https://http2.mlstatic.com/D_804913-MLU79581416234_102024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-09-02T12:38:22.000Z",
-      "ultima_actualizacion": "2025-07-29T01:27:13.633Z",
+      "ultima_actualizacion": "2026-01-15T20:51:31.786Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -1868,11 +1878,11 @@
       "stock_disponible": 2,
       "vendidos": 4,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-600075736-flores-secas-statice-blancas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_798239-MLU80891492442_122024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_798239-MLU80891492442_122024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_798239-MLU80891492442_122024-F.jpg",
-        "https://http2.mlstatic.com/D_963023-MLU80891717940_122024-F.jpg",
-        "https://http2.mlstatic.com/D_734415-MLU80891423494_122024-F.jpg"
+        "https://http2.mlstatic.com/D_798239-MLU80891492442_122024-O.jpg",
+        "https://http2.mlstatic.com/D_963023-MLU80891717940_122024-O.jpg",
+        "https://http2.mlstatic.com/D_734415-MLU80891423494_122024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1915,11 +1925,11 @@
       "stock_disponible": 0,
       "vendidos": 12,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-600877016-flores-secas-siemprevivas-pequenas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_992020-MLU76709064214_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_992020-MLU76709064214_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_992020-MLU76709064214_062024-F.jpg",
-        "https://http2.mlstatic.com/D_647096-MLU76709102182_062024-F.jpg",
-        "https://http2.mlstatic.com/D_973339-MLU76709102194_062024-F.jpg"
+        "https://http2.mlstatic.com/D_992020-MLU76709064214_062024-O.jpg",
+        "https://http2.mlstatic.com/D_647096-MLU76709102182_062024-O.jpg",
+        "https://http2.mlstatic.com/D_973339-MLU76709102194_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -1962,10 +1972,10 @@
       "stock_disponible": 0,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-601000728-mix-hojas-secas-prensadas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_657516-MLU47460083516_092021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_657516-MLU47460083516_092021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_657516-MLU47460083516_092021-F.jpg",
-        "https://http2.mlstatic.com/D_634292-MLU47460122293_092021-F.jpg"
+        "https://http2.mlstatic.com/D_657516-MLU47460083516_092021-O.jpg",
+        "https://http2.mlstatic.com/D_634292-MLU47460122293_092021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -2008,10 +2018,10 @@
       "stock_disponible": 0,
       "vendidos": 4,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-601992650-mix-flores-secas-prensadas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_691683-MLU80136447954_112024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_691683-MLU80136447954_112024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_691683-MLU80136447954_112024-F.jpg",
-        "https://http2.mlstatic.com/D_747221-MLU80136447948_112024-F.jpg"
+        "https://http2.mlstatic.com/D_691683-MLU80136447954_112024-O.jpg",
+        "https://http2.mlstatic.com/D_747221-MLU80136447948_112024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -2054,14 +2064,14 @@
       "stock_disponible": 1,
       "vendidos": 5,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-602057532-flores-secas-siemprevivas-con-tallo-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_841133-MLU76706860125_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_841133-MLU76706860125_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_841133-MLU76706860125_052024-F.jpg"
+        "https://http2.mlstatic.com/D_841133-MLU76706860125_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-10-01T02:01:44.000Z",
-      "ultima_actualizacion": "2025-07-27T00:22:31.135Z",
+      "ultima_actualizacion": "2026-01-15T20:54:08.362Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -2091,22 +2101,22 @@
       "id": "MLU600126043",
       "titulo": "Flores Secas 40 Unidades",
       "descripcion": "Flores secas , siemprevivas con tallo . \n40 unidades .\nColores variados en tonos , rojos, amarillos , rosados y fucsias \nDiametro de la flor de 3 a 4 cm .\nLargo del tallo de 18 a 20 cm.",
-      "precio": 480,
+      "precio": 540,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
       "stock_disponible": 2,
-      "vendidos": 21,
+      "vendidos": 23,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-600126043-flores-secas-40-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_962854-MLU76536989492_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_962854-MLU76536989492_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_962854-MLU76536989492_052024-F.jpg"
+        "https://http2.mlstatic.com/D_962854-MLU76536989492_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-09-01T12:24:20.000Z",
-      "ultima_actualizacion": "2025-08-01T20:43:37.607Z",
+      "ultima_actualizacion": "2026-01-15T20:46:52.623Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -2136,26 +2146,26 @@
       "id": "MLU603126024",
       "titulo": "Flores Secas Gran Variedad En Contenedor",
       "descripcion": "Organizador plástico ( tamaño M ) con variedad de flores secas\nFlores secas prensadas : contiene 15 pensamientos , 50 flores chicas (No me olvides , verbenas , lobelias . entre otras) \nFlores secas con volumen ( siemprevivas 25 , statice80 , gomhprena 40).\nMedidas de las flores : de 1 cm a 3,5 cm de diámetro . \nMedidas del organizador : 22 x 13 x 4 cm.\nIdeal para trabajos en resina o manualidades.",
-      "precio": 1190,
+      "precio": 1350,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
       "stock_disponible": 1,
-      "vendidos": 5,
+      "vendidos": 7,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-603126024-flores-secas-gran-variedad-en-contenedor-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_991998-MLU76711608846_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_991998-MLU76711608846_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_991998-MLU76711608846_062024-F.jpg",
-        "https://http2.mlstatic.com/D_701667-MLU76711608852_062024-F.jpg",
-        "https://http2.mlstatic.com/D_947894-MLU76915471977_062024-F.jpg",
-        "https://http2.mlstatic.com/D_967980-MLU76915471987_062024-F.jpg"
+        "https://http2.mlstatic.com/D_991998-MLU76711608846_062024-O.jpg",
+        "https://http2.mlstatic.com/D_701667-MLU76711608852_062024-O.jpg",
+        "https://http2.mlstatic.com/D_947894-MLU76915471977_062024-O.jpg",
+        "https://http2.mlstatic.com/D_967980-MLU76915471987_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-10-24T03:33:29.000Z",
-      "ultima_actualizacion": "2025-08-04T00:14:28.187Z",
-      "envio_gratis": false,
+      "ultima_actualizacion": "2026-01-02T22:19:15.358Z",
+      "envio_gratis": true,
       "metodos_envio": [],
       "ubicacion": {
         "ciudad": "Pan de Azúcar",
@@ -2192,12 +2202,12 @@
       "stock_disponible": 0,
       "vendidos": 8,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-603119624-flores-secas-en-contenedor-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_649557-MLU53024047264_122022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_649557-MLU53024047264_122022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_649557-MLU53024047264_122022-F.jpg",
-        "https://http2.mlstatic.com/D_601118-MLU53024042320_122022-F.jpg",
-        "https://http2.mlstatic.com/D_683479-MLU53024042324_122022-F.jpg",
-        "https://http2.mlstatic.com/D_713410-MLU53023998737_122022-F.jpg"
+        "https://http2.mlstatic.com/D_649557-MLU53024047264_122022-O.jpg",
+        "https://http2.mlstatic.com/D_601118-MLU53024042320_122022-O.jpg",
+        "https://http2.mlstatic.com/D_683479-MLU53024042324_122022-O.jpg",
+        "https://http2.mlstatic.com/D_713410-MLU53023998737_122022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -2240,12 +2250,12 @@
       "stock_disponible": 0,
       "vendidos": 2,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-603469561-flores-secas-statice-rosada-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_713921-MLU48068408896_102021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_713921-MLU48068408896_102021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_713921-MLU48068408896_102021-F.jpg",
-        "https://http2.mlstatic.com/D_980990-MLU48068408900_102021-F.jpg",
-        "https://http2.mlstatic.com/D_973911-MLU48068431663_102021-F.jpg",
-        "https://http2.mlstatic.com/D_613963-MLU48068439672_102021-F.jpg"
+        "https://http2.mlstatic.com/D_713921-MLU48068408896_102021-O.jpg",
+        "https://http2.mlstatic.com/D_980990-MLU48068408900_102021-O.jpg",
+        "https://http2.mlstatic.com/D_973911-MLU48068431663_102021-O.jpg",
+        "https://http2.mlstatic.com/D_613963-MLU48068439672_102021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -2279,23 +2289,23 @@
     {
       "id": "MLU604417649",
       "titulo": "Flores Secas Prensadas Miniviolas",
-      "descripcion": "Flores secas prensadas de miniviolas de varios colores .\nDiametro de 2 a 3,5cm.\n Foto real de las flores publicadas .",
-      "precio": 400,
+      "descripcion": "Flores secas prensadas de violas ( mini pensamientos ) de varios colores .\nDiametro de 2 a 3,5cm.",
+      "precio": 420,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 0,
-      "vendidos": 5,
+      "stock_disponible": 2,
+      "vendidos": 7,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-604417649-flores-secas-prensadas-miniviolas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_693257-MLU76733601467_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_693257-MLU76733601467_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_693257-MLU76733601467_052024-F.jpg"
+        "https://http2.mlstatic.com/D_693257-MLU76733601467_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-11-17T19:07:19.000Z",
-      "ultima_actualizacion": "2025-07-07T19:56:11.563Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.322Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -2333,12 +2343,12 @@
       "stock_disponible": 0,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-603430531-flores-secas-statice-rosadas-y-violetas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_873555-MLU48068572045_102021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_873555-MLU48068572045_102021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_873555-MLU48068572045_102021-F.jpg",
-        "https://http2.mlstatic.com/D_708248-MLU48068496728_102021-F.jpg",
-        "https://http2.mlstatic.com/D_748543-MLU48068482804_102021-F.jpg",
-        "https://http2.mlstatic.com/D_872520-MLU48068463898_102021-F.jpg"
+        "https://http2.mlstatic.com/D_873555-MLU48068572045_102021-O.jpg",
+        "https://http2.mlstatic.com/D_708248-MLU48068496728_102021-O.jpg",
+        "https://http2.mlstatic.com/D_748543-MLU48068482804_102021-O.jpg",
+        "https://http2.mlstatic.com/D_872520-MLU48068463898_102021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -2372,24 +2382,24 @@
     {
       "id": "MLU604996298",
       "titulo": "Flores Secas Prensadas Pequeñas",
-      "descripcion": "Variedad de flores y hojas secas prensadas pequeñas ( 1 a 2 cm )",
-      "precio": 440,
+      "descripcion": "Flores naturales secas prensadas de No me Olvides y helechos\nPequeñas de tamaño ( 1 a 2 cm )\nContiene unas 100 flores y 30 helechos.",
+      "precio": 550,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 0,
+      "stock_disponible": 2,
       "vendidos": 6,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-604996298-flores-secas-prensadas-pequenas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_829698-MLU77077005493_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_955472-MLU98370914833_112025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_829698-MLU77077005493_062024-F.jpg",
-        "https://http2.mlstatic.com/D_877870-MLU77076728333_062024-F.jpg"
+        "https://http2.mlstatic.com/D_955472-MLU98370914833_112025-O.jpg",
+        "https://http2.mlstatic.com/D_711788-MLU98370578425_112025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-11-28T03:25:28.000Z",
-      "ultima_actualizacion": "2025-07-07T20:25:43.488Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.429Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -2427,10 +2437,10 @@
       "stock_disponible": 0,
       "vendidos": 4,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-604983435-flores-secas-prensadas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_743889-MLU76718658297_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_743889-MLU76718658297_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_743889-MLU76718658297_052024-F.jpg",
-        "https://http2.mlstatic.com/D_626587-MLU76718805121_052024-F.jpg"
+        "https://http2.mlstatic.com/D_743889-MLU76718658297_052024-O.jpg",
+        "https://http2.mlstatic.com/D_626587-MLU76718805121_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -2465,22 +2475,22 @@
       "id": "MLU604729059",
       "titulo": "Flores Secas Statice De Varios Colores",
       "descripcion": "Flores naturales secas de statice .\nTonos lilas , violetas , blancos y rosados\nContiene entre 20 y 25 ramas como las de la última foto.\nAltura 30 a 35 cm",
-      "precio": 650,
+      "precio": 700,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 1,
+      "stock_disponible": 3,
       "vendidos": 11,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-604729059-flores-secas-statice-de-varios-colores-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_820066-MLU80989498581_112024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_820066-MLU80989498581_112024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_820066-MLU80989498581_112024-F.jpg"
+        "https://http2.mlstatic.com/D_820066-MLU80989498581_112024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-11-23T02:31:31.000Z",
-      "ultima_actualizacion": "2025-07-07T22:43:51.320Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.310Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -2513,21 +2523,21 @@
       "precio": 590,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
       "stock_disponible": 1,
       "vendidos": 16,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-605386488-espigas-secas-4-atados-variados-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_771268-MLU76709119878_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_771268-MLU76709119878_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_771268-MLU76709119878_062024-F.jpg",
-        "https://http2.mlstatic.com/D_652214-MLU76709100170_062024-F.jpg",
-        "https://http2.mlstatic.com/D_993365-MLU76709062166_062024-F.jpg"
+        "https://http2.mlstatic.com/D_771268-MLU76709119878_062024-O.jpg",
+        "https://http2.mlstatic.com/D_652214-MLU76709100170_062024-O.jpg",
+        "https://http2.mlstatic.com/D_993365-MLU76709062166_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-12-08T12:03:56.000Z",
-      "ultima_actualizacion": "2025-07-07T23:47:11.614Z",
+      "ultima_actualizacion": "2025-10-03T01:55:01.043Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -2565,15 +2575,15 @@
       "stock_disponible": 4,
       "vendidos": 24,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-604997389-espigas-de-trigo-2-atados-de-40-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_645527-MLU81226754524_122024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_645527-MLU81226754524_122024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_645527-MLU81226754524_122024-F.jpg",
-        "https://http2.mlstatic.com/D_881874-MLU81227048338_122024-F.jpg"
+        "https://http2.mlstatic.com/D_645527-MLU81226754524_122024-O.jpg",
+        "https://http2.mlstatic.com/D_881874-MLU81227048338_122024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-11-29T03:30:29.000Z",
-      "ultima_actualizacion": "2025-07-29T01:31:09.826Z",
+      "ultima_actualizacion": "2026-01-16T18:07:17.235Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -2611,13 +2621,15 @@
       "stock_disponible": 0,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-606535007-flores-secas-semillas-y-espigas-para-artesanias-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_784621-MLU48815359349_012022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_784621-MLU48815359349_012022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_784621-MLU48815359349_012022-F.jpg",
-        "https://http2.mlstatic.com/D_706354-MLU48815338484_012022-F.jpg",
-        "https://http2.mlstatic.com/D_721074-MLU48815315703_012022-F.jpg",
-        "https://http2.mlstatic.com/D_753929-MLU48815305780_012022-F.jpg",
-        "https://http2.mlstatic.com/D_707371-MLU48815342522_012022-F.jpg"
+        "https://http2.mlstatic.com/D_784621-MLU48815359349_012022-O.jpg",
+        "https://http2.mlstatic.com/D_706354-MLU48815338484_012022-O.jpg",
+        "https://http2.mlstatic.com/D_721074-MLU48815315703_012022-O.jpg",
+        "https://http2.mlstatic.com/D_753929-MLU48815305780_012022-O.jpg",
+        "https://http2.mlstatic.com/D_707371-MLU48815342522_012022-O.jpg",
+        "https://http2.mlstatic.com/D_887460-MLU48815415047_012022-O.jpg",
+        "https://http2.mlstatic.com/D_738107-MLU48815349512_012022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -2651,25 +2663,25 @@
     {
       "id": "MLU606698613",
       "titulo": "Flores Secas Siemprevivas Tonos Rosa 65 Unidades",
-      "descripcion": "Flores secas de siemprevivas , tonos rosados y fucsias . 65 unidades de 2 a 3,4 cm de diametro",
+      "descripcion": "Flores secas de siemprevivas ( sin tallo )\nTonos rosados y fucsias . 65 unidades de 2,5 a 4cm de diametro",
       "precio": 420,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
       "stock_disponible": 2,
       "vendidos": 8,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-606698613-flores-secas-siemprevivas-tonos-rosa-65-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_667209-MLU48827185931_012022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_667209-MLU48827185931_012022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_667209-MLU48827185931_012022-F.jpg",
-        "https://http2.mlstatic.com/D_982776-MLU48827210656_012022-F.jpg",
-        "https://http2.mlstatic.com/D_763899-MLU48827274408_012022-F.jpg"
+        "https://http2.mlstatic.com/D_667209-MLU48827185931_012022-O.jpg",
+        "https://http2.mlstatic.com/D_982776-MLU48827210656_012022-O.jpg",
+        "https://http2.mlstatic.com/D_763899-MLU48827274408_012022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-01-14T11:18:02.000Z",
-      "ultima_actualizacion": "2025-07-08T01:08:58.835Z",
+      "ultima_actualizacion": "2026-01-15T20:59:04.849Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -2707,13 +2719,14 @@
       "stock_disponible": 0,
       "vendidos": 2,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-605028056-mini-ramitos-de-espigas-de-trigo-x-15-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_685733-MLU48373600685_112021-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_685733-MLU48373600685_112021-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_685733-MLU48373600685_112021-F.jpg",
-        "https://http2.mlstatic.com/D_683980-MLU48373600683_112021-F.jpg",
-        "https://http2.mlstatic.com/D_611753-MLU48373608526_112021-F.jpg",
-        "https://http2.mlstatic.com/D_630020-MLU48373563901_112021-F.jpg",
-        "https://http2.mlstatic.com/D_645278-MLU48373608529_112021-F.jpg"
+        "https://http2.mlstatic.com/D_685733-MLU48373600685_112021-O.jpg",
+        "https://http2.mlstatic.com/D_683980-MLU48373600683_112021-O.jpg",
+        "https://http2.mlstatic.com/D_611753-MLU48373608526_112021-O.jpg",
+        "https://http2.mlstatic.com/D_630020-MLU48373563901_112021-O.jpg",
+        "https://http2.mlstatic.com/D_645278-MLU48373608529_112021-O.jpg",
+        "https://http2.mlstatic.com/D_681823-MLU48373559921_112021-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -2751,23 +2764,23 @@
       "precio": 760,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
       "stock_disponible": 1,
       "vendidos": 3,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-607524839-flores-secas-mini-ramitos-x-25-ideal-packaging-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_775748-MLU79829843175_102024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_775748-MLU79829843175_102024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_775748-MLU79829843175_102024-F.jpg",
-        "https://http2.mlstatic.com/D_726260-MLU79830048083_102024-F.jpg",
-        "https://http2.mlstatic.com/D_814004-MLU79581418490_102024-F.jpg",
-        "https://http2.mlstatic.com/D_609529-MLU79829843295_102024-F.jpg",
-        "https://http2.mlstatic.com/D_959313-MLU79581359700_102024-F.jpg"
+        "https://http2.mlstatic.com/D_775748-MLU79829843175_102024-O.jpg",
+        "https://http2.mlstatic.com/D_726260-MLU79830048083_102024-O.jpg",
+        "https://http2.mlstatic.com/D_814004-MLU79581418490_102024-O.jpg",
+        "https://http2.mlstatic.com/D_609529-MLU79829843295_102024-O.jpg",
+        "https://http2.mlstatic.com/D_959313-MLU79581359700_102024-O.jpg"
       ],
       "categoria_id": "MLU161177",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-02-01T22:08:36.000Z",
-      "ultima_actualizacion": "2025-07-08T01:05:58.538Z",
+      "ultima_actualizacion": "2025-09-04T18:59:11.548Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -2817,10 +2830,10 @@
       "stock_disponible": 0,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-606364505-flores-secas-siemprevivas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_946463-MLU48786446200_012022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_946463-MLU48786446200_012022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_946463-MLU48786446200_012022-F.jpg",
-        "https://http2.mlstatic.com/D_789369-MLU48786438393_012022-F.jpg"
+        "https://http2.mlstatic.com/D_946463-MLU48786446200_012022-O.jpg",
+        "https://http2.mlstatic.com/D_789369-MLU48786438393_012022-O.jpg"
       ],
       "categoria_id": "MLU3530",
       "tipo_listado": "gold_special",
@@ -2854,7 +2867,7 @@
     {
       "id": "MLU607193410",
       "titulo": "Espigas De Trigo 10 Unidades",
-      "descripcion": "Sin descripción disponible",
+      "descripcion": null,
       "precio": 100,
       "moneda": "UYU",
       "precio_original": null,
@@ -2863,9 +2876,9 @@
       "stock_disponible": 4,
       "vendidos": 2,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-607193410-espigas-de-trigo-10-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_751762-MLU52085394782_102022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_751762-MLU52085394782_102022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_751762-MLU52085394782_102022-F.jpg"
+        "https://http2.mlstatic.com/D_751762-MLU52085394782_102022-O.jpg"
       ],
       "categoria_id": "MLU412644",
       "tipo_listado": "gold_special",
@@ -2900,12 +2913,12 @@
       "stock_disponible": 2,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-609938869-espigas-secas-de-moha-oferta-x-150-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_626066-MLU49497945670_032022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_626066-MLU49497945670_032022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_626066-MLU49497945670_032022-F.jpg",
-        "https://http2.mlstatic.com/D_730141-MLU49497955625_032022-F.jpg",
-        "https://http2.mlstatic.com/D_903404-MLU49497920810_032022-F.jpg",
-        "https://http2.mlstatic.com/D_905683-MLU49497955627_032022-F.jpg"
+        "https://http2.mlstatic.com/D_626066-MLU49497945670_032022-O.jpg",
+        "https://http2.mlstatic.com/D_730141-MLU49497955625_032022-O.jpg",
+        "https://http2.mlstatic.com/D_903404-MLU49497920810_032022-O.jpg",
+        "https://http2.mlstatic.com/D_905683-MLU49497955627_032022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -2948,13 +2961,14 @@
       "stock_disponible": 0,
       "vendidos": 5,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-611197743-espigas-de-trigo-pequenas-x-200-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_681549-MLU49720205326_042022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_681549-MLU49720205326_042022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_681549-MLU49720205326_042022-F.jpg",
-        "https://http2.mlstatic.com/D_968949-MLU49720145746_042022-F.jpg",
-        "https://http2.mlstatic.com/D_701764-MLU49720202343_042022-F.jpg",
-        "https://http2.mlstatic.com/D_878925-MLU49720223209_042022-F.jpg",
-        "https://http2.mlstatic.com/D_732225-MLU49720262016_042022-F.jpg"
+        "https://http2.mlstatic.com/D_681549-MLU49720205326_042022-O.jpg",
+        "https://http2.mlstatic.com/D_968949-MLU49720145746_042022-O.jpg",
+        "https://http2.mlstatic.com/D_701764-MLU49720202343_042022-O.jpg",
+        "https://http2.mlstatic.com/D_878925-MLU49720223209_042022-O.jpg",
+        "https://http2.mlstatic.com/D_732225-MLU49720262016_042022-O.jpg",
+        "https://http2.mlstatic.com/D_628320-MLU49720105940_042022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -2988,8 +3002,8 @@
     {
       "id": "MLU611339613",
       "titulo": "Flores Secas Para Decoracion",
-      "descripcion": "Flores secas Siemprevivas ( sin tallo)\n100 flores .\n2 a 3,5 cm diametro de flor . Colores surtidos",
-      "precio": 580,
+      "descripcion": "Flores secas Siemprevivas ( sin tallo)\n100 flores .\n2,5 a 4 cm diametro de flor . Colores surtidos",
+      "precio": 550,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
@@ -2997,14 +3011,14 @@
       "stock_disponible": 2,
       "vendidos": 20,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-611339613-flores-secas-para-decoracion-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_757615-MLU76746319973_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_757615-MLU76746319973_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_757615-MLU76746319973_052024-F.jpg"
+        "https://http2.mlstatic.com/D_757615-MLU76746319973_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-04-22T10:00:15.000Z",
-      "ultima_actualizacion": "2025-07-15T00:48:39.659Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.305Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3043,21 +3057,23 @@
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 5,
-      "vendidos": 9,
+      "stock_disponible": 2,
+      "vendidos": 12,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-611386420-flores-secas-gomphrena-250-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_820831-MLU49750218642_042022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_820831-MLU49750218642_042022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_820831-MLU49750218642_042022-F.jpg",
-        "https://http2.mlstatic.com/D_806519-MLU49750233280_042022-F.jpg",
-        "https://http2.mlstatic.com/D_924777-MLU49750250096_042022-F.jpg",
-        "https://http2.mlstatic.com/D_823805-MLU49750198962_042022-F.jpg",
-        "https://http2.mlstatic.com/D_716447-MLU49750211782_042022-F.jpg"
+        "https://http2.mlstatic.com/D_820831-MLU49750218642_042022-O.jpg",
+        "https://http2.mlstatic.com/D_806519-MLU49750233280_042022-O.jpg",
+        "https://http2.mlstatic.com/D_924777-MLU49750250096_042022-O.jpg",
+        "https://http2.mlstatic.com/D_823805-MLU49750198962_042022-O.jpg",
+        "https://http2.mlstatic.com/D_716447-MLU49750211782_042022-O.jpg",
+        "https://http2.mlstatic.com/D_739793-MLU49750203959_042022-O.jpg",
+        "https://http2.mlstatic.com/D_857856-MLU49750198964_042022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-04-24T01:56:52.000Z",
-      "ultima_actualizacion": "2025-08-01T20:46:13.083Z",
+      "ultima_actualizacion": "2026-01-14T21:00:47.202Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3092,17 +3108,17 @@
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 5,
-      "vendidos": 51,
+      "stock_disponible": 4,
+      "vendidos": 58,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-611386414-flores-secas-mix-de-variedades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_906960-MLU76458455144_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_906960-MLU76458455144_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_906960-MLU76458455144_052024-F.jpg"
+        "https://http2.mlstatic.com/D_906960-MLU76458455144_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-04-24T01:43:31.000Z",
-      "ultima_actualizacion": "2025-07-08T00:04:18.641Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.374Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3135,21 +3151,21 @@
       "precio": 440,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
       "stock_disponible": 1,
       "vendidos": 5,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-611818323-mini-ramitos-flores-secas-x-12-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_899857-MLU76913068729_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_899857-MLU76913068729_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_899857-MLU76913068729_062024-F.jpg",
-        "https://http2.mlstatic.com/D_981698-MLU76913021471_062024-F.jpg",
-        "https://http2.mlstatic.com/D_906364-MLU76709173418_062024-F.jpg"
+        "https://http2.mlstatic.com/D_899857-MLU76913068729_062024-O.jpg",
+        "https://http2.mlstatic.com/D_981698-MLU76913021471_062024-O.jpg",
+        "https://http2.mlstatic.com/D_906364-MLU76709173418_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-05-02T18:34:05.000Z",
-      "ultima_actualizacion": "2025-07-07T23:23:07.772Z",
+      "ultima_actualizacion": "2025-10-14T05:42:15.971Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3187,11 +3203,11 @@
       "stock_disponible": 0,
       "vendidos": 45,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-612696800-flores-secas-ramitos-miniaturas-x-25-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_869232-MLU76511301990_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_869232-MLU76511301990_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_869232-MLU76511301990_052024-F.jpg",
-        "https://http2.mlstatic.com/D_887701-MLU76600098254_062024-F.jpg",
-        "https://http2.mlstatic.com/D_644945-MLU76800932829_062024-F.jpg"
+        "https://http2.mlstatic.com/D_869232-MLU76511301990_052024-O.jpg",
+        "https://http2.mlstatic.com/D_887701-MLU76600098254_062024-O.jpg",
+        "https://http2.mlstatic.com/D_644945-MLU76800932829_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -3225,23 +3241,23 @@
     {
       "id": "MLU612863417",
       "titulo": "Flores Secas Siemprevivas X 30 Unidades",
-      "descripcion": "30 flores secas de siemprevivas ( sin tallo )",
-      "precio": 220,
+      "descripcion": "30 flores secas de siemprevivas ( sin tallo )\nMiden entre 2,5 y 4 cm de diámetro.",
+      "precio": 270,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 2,
-      "vendidos": 9,
+      "stock_disponible": 5,
+      "vendidos": 15,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-612863417-flores-secas-siemprevivas-x-30-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_707858-MLU76547449154_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_707858-MLU76547449154_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_707858-MLU76547449154_052024-F.jpg"
+        "https://http2.mlstatic.com/D_707858-MLU76547449154_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-05-25T23:04:39.000Z",
-      "ultima_actualizacion": "2025-07-29T17:13:50.541Z",
+      "ultima_actualizacion": "2026-01-12T17:31:21.076Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3279,9 +3295,9 @@
       "stock_disponible": 0,
       "vendidos": 2,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-614579214-flores-prensadas-x-450-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_740232-MLU81824254656_012025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_740232-MLU81824254656_012025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_740232-MLU81824254656_012025-F.jpg"
+        "https://http2.mlstatic.com/D_740232-MLU81824254656_012025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -3316,9 +3332,9 @@
       "stock_disponible": 0,
       "vendidos": 5,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-614992906-flores-secas-siemprevivas-con-tallo-tonos-rosados-y-fuccias-rosa-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_889258-MLU76519005050_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_889258-MLU76519005050_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_889258-MLU76519005050_052024-F.jpg"
+        "https://http2.mlstatic.com/D_889258-MLU76519005050_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -3357,11 +3373,11 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-615519139-flores-secas-100-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_833163-MLU50751064658_072022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_833163-MLU50751064658_072022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_833163-MLU50751064658_072022-F.jpg",
-        "https://http2.mlstatic.com/D_690339-MLU50751192019_072022-F.jpg",
-        "https://http2.mlstatic.com/D_914847-MLU50751064690_072022-F.jpg"
+        "https://http2.mlstatic.com/D_833163-MLU50751064658_072022-O.jpg",
+        "https://http2.mlstatic.com/D_690339-MLU50751192019_072022-O.jpg",
+        "https://http2.mlstatic.com/D_914847-MLU50751064690_072022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -3387,23 +3403,23 @@
     {
       "id": "MLU615510059",
       "titulo": "Flores Secas Oferta X 150 ",
-      "descripcion": "150 flores secas de siemprevivas .\nDiámetro de las flores de 2 a 3.5 cm.\nSon flores que ya tienen algunos meses y los colores pueden ser un poco apagados que las flores cosechadas recientemente.\nFoto real de lo publicado",
-      "precio": 400,
+      "descripcion": "150 flores secas de siemprevivas .\nDiámetro de las flores de 2,5 a 4 cm.\nSon flores que ya tienen algunos meses y los colores pueden ser un poco apagados que las flores cosechadas recientemente.\nFoto real de lo publicado",
+      "precio": 440,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 0,
+      "stock_disponible": 3,
       "vendidos": 12,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-615510059-flores-secas-oferta-x-150-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_968487-MLU76734037833_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_968487-MLU76734037833_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_968487-MLU76734037833_052024-F.jpg"
+        "https://http2.mlstatic.com/D_968487-MLU76734037833_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-07-16T22:54:33.000Z",
-      "ultima_actualizacion": "2025-06-23T21:01:38.672Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.417Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3433,13 +3449,13 @@
       "stock_disponible": 2,
       "vendidos": 5,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-615496028-espigas-naturales-x-300-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_624138-MLU70500809319_072023-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_624138-MLU70500809319_072023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_624138-MLU70500809319_072023-F.jpg",
-        "https://http2.mlstatic.com/D_834805-MLU70500809595_072023-F.jpg",
-        "https://http2.mlstatic.com/D_657597-MLU70474650782_072023-F.jpg",
-        "https://http2.mlstatic.com/D_816245-MLU70500934821_072023-F.jpg",
-        "https://http2.mlstatic.com/D_786319-MLU70500935033_072023-F.jpg"
+        "https://http2.mlstatic.com/D_624138-MLU70500809319_072023-O.jpg",
+        "https://http2.mlstatic.com/D_834805-MLU70500809595_072023-O.jpg",
+        "https://http2.mlstatic.com/D_657597-MLU70474650782_072023-O.jpg",
+        "https://http2.mlstatic.com/D_816245-MLU70500934821_072023-O.jpg",
+        "https://http2.mlstatic.com/D_786319-MLU70500935033_072023-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -3474,25 +3490,25 @@
       "id": "MLU615769519",
       "titulo": "Flores Secas Minipensamientos Oferta X 100",
       "descripcion": "100 flores secas prensadas de pensamientos .\nEstan en oferta por ser flores que tienen pequeños detalles como , color apagado , pequeñas roturas o manchas que las hacen que no sean \"perfectas \".",
-      "precio": 400,
+      "precio": 500,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 0,
-      "vendidos": 20,
+      "stock_disponible": 2,
+      "vendidos": 24,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-615769519-flores-secas-minipensamientos-oferta-x-100-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_886690-MLU76029092808_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_886690-MLU76029092808_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_886690-MLU76029092808_052024-F.jpg",
-        "https://http2.mlstatic.com/D_681110-MLU76210267349_052024-F.jpg",
-        "https://http2.mlstatic.com/D_725052-MLU85600781131_062025-F.jpg",
-        "https://http2.mlstatic.com/D_790815-MLU85601185707_062025-F.jpg"
+        "https://http2.mlstatic.com/D_886690-MLU76029092808_052024-O.jpg",
+        "https://http2.mlstatic.com/D_681110-MLU76210267349_052024-O.jpg",
+        "https://http2.mlstatic.com/D_725052-MLU85600781131_062025-O.jpg",
+        "https://http2.mlstatic.com/D_790815-MLU85601185707_062025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-07-25T01:35:58.000Z",
-      "ultima_actualizacion": "2025-08-12T01:19:11.428Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.297Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3521,23 +3537,23 @@
     {
       "id": "MLU618399376",
       "titulo": "Espigas De Trigo 40 Unidades",
-      "descripcion": "Sin descripción disponible",
+      "descripcion": null,
       "precio": 250,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 10,
-      "vendidos": 13,
+      "stock_disponible": 4,
+      "vendidos": 19,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-618399376-espigas-de-trigo-40-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_910003-MLU51560202839_092022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_910003-MLU51560202839_092022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_910003-MLU51560202839_092022-F.jpg"
+        "https://http2.mlstatic.com/D_910003-MLU51560202839_092022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-09-15T19:22:37.000Z",
-      "ultima_actualizacion": "2025-08-04T00:12:33.313Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.412Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3567,11 +3583,11 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-619633753-flores-secas-x-50-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_706628-MLU51889696064_102022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_706628-MLU51889696064_102022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_706628-MLU51889696064_102022-F.jpg",
-        "https://http2.mlstatic.com/D_732702-MLU51889700034_102022-F.jpg",
-        "https://http2.mlstatic.com/D_786988-MLU51889678149_102022-F.jpg"
+        "https://http2.mlstatic.com/D_706628-MLU51889696064_102022-O.jpg",
+        "https://http2.mlstatic.com/D_732702-MLU51889700034_102022-O.jpg",
+        "https://http2.mlstatic.com/D_786988-MLU51889678149_102022-O.jpg"
       ],
       "categoria_id": "MLU161177",
       "tipo_listado": "gold_special",
@@ -3606,14 +3622,14 @@
       "stock_disponible": 1,
       "vendidos": 14,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-619731102-flores-secas-oferta-x-100-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_722107-MLU76536996678_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_722107-MLU76536996678_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_722107-MLU76536996678_052024-F.jpg"
+        "https://http2.mlstatic.com/D_722107-MLU76536996678_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-10-12T11:39:37.000Z",
-      "ultima_actualizacion": "2025-07-10T18:18:50.004Z",
+      "ultima_actualizacion": "2026-01-02T22:19:42.390Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3646,20 +3662,20 @@
       "precio": 460,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
-      "stock_disponible": 1,
-      "vendidos": 14,
+      "stock_disponible": 0,
+      "vendidos": 15,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-480565008-flores-naturales-prensadas-tamano-pequeno-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_892298-MLU90224174825_082025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_892298-MLU90224174825_082025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_892298-MLU90224174825_082025-F.jpg",
-        "https://http2.mlstatic.com/D_671949-MLU89845831938_082025-F.jpg"
+        "https://http2.mlstatic.com/D_892298-MLU90224174825_082025-O.jpg",
+        "https://http2.mlstatic.com/D_671949-MLU89845831938_082025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-07-05T21:46:09.000Z",
-      "ultima_actualizacion": "2025-08-16T12:55:45.124Z",
+      "ultima_actualizacion": "2025-09-16T03:23:26.173Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3691,27 +3707,27 @@
     },
     {
       "id": "MLU624099027",
-      "titulo": "Flores Secas Statice 4 Atados Varios Colores",
+      "titulo": "Flores Secas Statice 4 Atados Varios Colores Varios Colores",
       "descripcion": "4 ramitos de statices surtidas en tonos rosados , lilas , violetas y blancos.\nCada atado contiene unas 20 ramitas como las de las últimas fotos.\nAltura de 25 a 35 cm.",
-      "precio": 780,
+      "precio": 850,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
       "stock_disponible": 1,
       "vendidos": 6,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-624099027-flores-secas-statice-4-atados-varios-colores-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_737690-MLU80714859048_112024-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-624099027-flores-secas-statice-4-atados-varios-colores-varios-colores-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_737690-MLU80714859048_112024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_737690-MLU80714859048_112024-F.jpg",
-        "https://http2.mlstatic.com/D_988233-MLU80979615325_112024-F.jpg",
-        "https://http2.mlstatic.com/D_638164-MLU80979595283_112024-F.jpg",
-        "https://http2.mlstatic.com/D_737919-MLU80979615311_112024-F.jpg"
+        "https://http2.mlstatic.com/D_737690-MLU80714859048_112024-O.jpg",
+        "https://http2.mlstatic.com/D_988233-MLU80979615325_112024-O.jpg",
+        "https://http2.mlstatic.com/D_638164-MLU80979595283_112024-O.jpg",
+        "https://http2.mlstatic.com/D_737919-MLU80979615311_112024-O.jpg"
       ],
-      "categoria_id": "MLU1643",
+      "categoria_id": "MLU412644",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-12-09T14:55:13.000Z",
-      "ultima_actualizacion": "2025-06-22T19:10:48.639Z",
+      "ultima_actualizacion": "2026-01-15T20:44:42.793Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3725,12 +3741,48 @@
           "valor": "Mel Creaciones"
         },
         {
+          "nombre": "Color",
+          "valor": "Varios Colores"
+        },
+        {
+          "nombre": "Formato de la flor",
+          "valor": "Secas"
+        },
+        {
+          "nombre": "Nombre de la flor",
+          "valor": "Statice"
+        },
+        {
           "nombre": "Condición del ítem",
           "valor": "Nuevo"
         },
         {
           "nombre": "Fabricante",
           "valor": "Mel Creaciones"
+        },
+        {
+          "nombre": "Formato de venta",
+          "valor": "Pack"
+        },
+        {
+          "nombre": "Altura del paquete del seller",
+          "valor": "44 cm"
+        },
+        {
+          "nombre": "Largo del paquete del seller",
+          "valor": "10 cm"
+        },
+        {
+          "nombre": "Tipo de paquete del seller",
+          "valor": "Con embalaje adicional"
+        },
+        {
+          "nombre": "Peso del paquete del seller",
+          "valor": "338 g"
+        },
+        {
+          "nombre": "Ancho del paquete del seller",
+          "valor": "21 cm"
         }
       ],
       "garantia": "Garantía del vendedor: 2 meses",
@@ -3746,17 +3798,17 @@
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 2,
-      "vendidos": 38,
+      "stock_disponible": 3,
+      "vendidos": 43,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-624516319-flores-secas-mas-de-1000-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_792637-MLU69618545020_052023-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_792637-MLU69618545020_052023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_792637-MLU69618545020_052023-F.jpg"
+        "https://http2.mlstatic.com/D_792637-MLU69618545020_052023-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-12-14T20:45:27.000Z",
-      "ultima_actualizacion": "2025-07-07T20:31:08.939Z",
+      "ultima_actualizacion": "2026-01-15T20:43:03.071Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3786,24 +3838,24 @@
       "id": "MLU478528968",
       "titulo": "Flores Secas Y Espigas Para Manualidades",
       "descripcion": "Caja con 8 variedades de espigas y flores secas.\nEspigas : trigo , alpiste , lino , avena , brisa\nFlores : gomphrena y statice rosadas y lilas.\nCantidades por cada variedad : 30 unidades",
-      "precio": 720,
+      "precio": 750,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 2,
-      "vendidos": 77,
+      "stock_disponible": 5,
+      "vendidos": 88,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-478528968-flores-secas-y-espigas-para-manualidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_823685-MLU76717054091_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_823685-MLU76717054091_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_823685-MLU76717054091_052024-F.jpg",
-        "https://http2.mlstatic.com/D_677683-MLU76717202257_052024-F.jpg",
-        "https://http2.mlstatic.com/D_742279-MLU76717202315_052024-F.jpg"
+        "https://http2.mlstatic.com/D_823685-MLU76717054091_052024-O.jpg",
+        "https://http2.mlstatic.com/D_677683-MLU76717202257_052024-O.jpg",
+        "https://http2.mlstatic.com/D_742279-MLU76717202315_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-04-05T03:05:26.000Z",
-      "ultima_actualizacion": "2025-08-15T16:54:16.065Z",
+      "ultima_actualizacion": "2026-01-15T20:42:17.386Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3841,18 +3893,21 @@
       "stock_disponible": 0,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-625200587-flores-secas-siemprevivas-en-tonos-rojos-y-naranjas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_719412-MLU53028050480_122022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_719412-MLU53028050480_122022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_719412-MLU53028050480_122022-F.jpg",
-        "https://http2.mlstatic.com/D_974986-MLU53028083138_122022-F.jpg",
-        "https://http2.mlstatic.com/D_744270-MLU53028049524_122022-F.jpg",
-        "https://http2.mlstatic.com/D_725559-MLU53028053478_122022-F.jpg",
-        "https://http2.mlstatic.com/D_804443-MLU53028049578_122022-F.jpg"
+        "https://http2.mlstatic.com/D_719412-MLU53028050480_122022-O.jpg",
+        "https://http2.mlstatic.com/D_974986-MLU53028083138_122022-O.jpg",
+        "https://http2.mlstatic.com/D_744270-MLU53028049524_122022-O.jpg",
+        "https://http2.mlstatic.com/D_725559-MLU53028053478_122022-O.jpg",
+        "https://http2.mlstatic.com/D_804443-MLU53028049578_122022-O.jpg",
+        "https://http2.mlstatic.com/D_971509-MLU53028076272_122022-O.jpg",
+        "https://http2.mlstatic.com/D_913223-MLU53028050500_122022-O.jpg",
+        "https://http2.mlstatic.com/D_625427-MLU53028074302_122022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-12-24T17:44:07.000Z",
-      "ultima_actualizacion": "2023-11-15T08:59:40.762Z",
+      "ultima_actualizacion": "2025-09-18T20:46:00.919Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3890,16 +3945,16 @@
       "stock_disponible": 1,
       "vendidos": 11,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-625719666-espigas-de-trigo-pequenas-80-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_763094-MLU49246592168_032022-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_763094-MLU49246592168_032022-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_763094-MLU49246592168_032022-F.jpg",
-        "https://http2.mlstatic.com/D_848762-MLU49246207773_032022-F.jpg",
-        "https://http2.mlstatic.com/D_664348-MLU49246608049_032022-F.jpg"
+        "https://http2.mlstatic.com/D_763094-MLU49246592168_032022-O.jpg",
+        "https://http2.mlstatic.com/D_848762-MLU49246207773_032022-O.jpg",
+        "https://http2.mlstatic.com/D_664348-MLU49246608049_032022-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-01-08T21:00:31.000Z",
-      "ultima_actualizacion": "2025-08-19T12:59:37.422Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.312Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3919,6 +3974,26 @@
         {
           "nombre": "Fabricante",
           "valor": "Mel Creaciones"
+        },
+        {
+          "nombre": "Altura del paquete del seller",
+          "valor": "19 cm"
+        },
+        {
+          "nombre": "Largo del paquete del seller",
+          "valor": "7 cm"
+        },
+        {
+          "nombre": "Tipo de paquete del seller",
+          "valor": "Con embalaje adicional"
+        },
+        {
+          "nombre": "Peso del paquete del seller",
+          "valor": "370 g"
+        },
+        {
+          "nombre": "Ancho del paquete del seller",
+          "valor": "16 cm"
         }
       ],
       "garantia": "Garantía del vendedor: 1 meses",
@@ -3937,17 +4012,17 @@
       "stock_disponible": 0,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-627578953-flores-secas-statice-rosadas-y-lilas-200-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_679207-MLU53546040525_012023-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_679207-MLU53546040525_012023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_679207-MLU53546040525_012023-F.jpg",
-        "https://http2.mlstatic.com/D_851460-MLU53545966863_012023-F.jpg",
-        "https://http2.mlstatic.com/D_996422-MLU53545957718_012023-F.jpg",
-        "https://http2.mlstatic.com/D_853051-MLU53545999839_012023-F.jpg"
+        "https://http2.mlstatic.com/D_679207-MLU53546040525_012023-O.jpg",
+        "https://http2.mlstatic.com/D_851460-MLU53545966863_012023-O.jpg",
+        "https://http2.mlstatic.com/D_996422-MLU53545957718_012023-O.jpg",
+        "https://http2.mlstatic.com/D_853051-MLU53545999839_012023-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-01-31T18:00:23.000Z",
-      "ultima_actualizacion": "2023-11-15T06:50:34.478Z",
+      "ultima_actualizacion": "2025-09-18T20:50:45.658Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3967,7 +4042,7 @@
     },
     {
       "id": "MLU627620354",
-      "titulo": "Flores Secas Statices Violetas",
+      "titulo": "Flores Secas Statices Violetas Violeta",
       "descripcion": "50 flores secas de statices violetas\nAltura de 20 a 25 cm",
       "precio": 480,
       "moneda": "UYU",
@@ -3975,18 +4050,18 @@
       "estado": "paused",
       "condicion": "new",
       "stock_disponible": 2,
-      "vendidos": 2,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-627620354-flores-secas-statices-violetas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_667541-MLU53568305618_022023-F.jpg",
+      "vendidos": 0,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-627620354-flores-secas-statices-violetas-violeta-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_667541-MLU53568305618_022023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_667541-MLU53568305618_022023-F.jpg",
-        "https://http2.mlstatic.com/D_950469-MLU53568206990_022023-F.jpg",
-        "https://http2.mlstatic.com/D_620002-MLU53568181929_022023-F.jpg"
+        "https://http2.mlstatic.com/D_667541-MLU53568305618_022023-O.jpg",
+        "https://http2.mlstatic.com/D_950469-MLU53568206990_022023-O.jpg",
+        "https://http2.mlstatic.com/D_620002-MLU53568181929_022023-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-02-01T20:53:10.000Z",
-      "ultima_actualizacion": "2025-08-01T20:45:23.623Z",
+      "ultima_actualizacion": "2026-01-20T05:36:16.462Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -3995,6 +4070,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Violeta"
+        },
+        {
+          "nombre": "Color principal",
+          "valor": "Violeta"
+        },
         {
           "nombre": "Condición del ítem",
           "valor": "Nuevo"
@@ -4016,11 +4099,11 @@
       "stock_disponible": 0,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-627613841-flores-secas-statice-violetas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_698074-MLU53568196347_022023-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_698074-MLU53568196347_022023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_698074-MLU53568196347_022023-F.jpg",
-        "https://http2.mlstatic.com/D_689197-MLU53568038964_022023-F.jpg",
-        "https://http2.mlstatic.com/D_747677-MLU53568244158_022023-F.jpg"
+        "https://http2.mlstatic.com/D_698074-MLU53568196347_022023-O.jpg",
+        "https://http2.mlstatic.com/D_689197-MLU53568038964_022023-O.jpg",
+        "https://http2.mlstatic.com/D_747677-MLU53568244158_022023-O.jpg"
       ],
       "categoria_id": "MLU1902",
       "tipo_listado": "gold_special",
@@ -4051,25 +4134,25 @@
       "id": "MLU627613812",
       "titulo": "Flores Secas Statices 50 Unidades",
       "descripcion": "50 flores de statice en varios colores ( violeta , lila , blanco , rosado )\nTamaño : 10 cm aprox.\nIdeal para armar souvenirs",
-      "precio": 550,
+      "precio": 680,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
       "stock_disponible": 2,
-      "vendidos": 3,
+      "vendidos": 6,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-627613812-flores-secas-statices-50-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_692739-MLU79836099146_102024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_692739-MLU79836099146_102024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_692739-MLU79836099146_102024-F.jpg",
-        "https://http2.mlstatic.com/D_684257-MLU79836137738_102024-F.jpg",
-        "https://http2.mlstatic.com/D_741509-MLU88490602805_072025-F.jpg",
-        "https://http2.mlstatic.com/D_604790-MLU88490900109_072025-F.jpg"
+        "https://http2.mlstatic.com/D_692739-MLU79836099146_102024-O.jpg",
+        "https://http2.mlstatic.com/D_684257-MLU79836137738_102024-O.jpg",
+        "https://http2.mlstatic.com/D_741509-MLU88490602805_072025-O.jpg",
+        "https://http2.mlstatic.com/D_604790-MLU88490900109_072025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-02-01T20:17:40.000Z",
-      "ultima_actualizacion": "2025-08-12T01:04:52.639Z",
+      "ultima_actualizacion": "2026-01-07T18:09:17.691Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4102,19 +4185,19 @@
       "precio": 400,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 1,
+      "stock_disponible": 3,
       "vendidos": 6,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-629175813-flores-secas-siemprevivas-grandes-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_748548-MLU76592584497_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_748548-MLU76592584497_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_748548-MLU76592584497_052024-F.jpg"
+        "https://http2.mlstatic.com/D_748548-MLU76592584497_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-02-25T14:04:44.000Z",
-      "ultima_actualizacion": "2025-07-07T20:41:37.982Z",
+      "ultima_actualizacion": "2026-01-15T20:45:25.481Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4152,9 +4235,9 @@
       "stock_disponible": 2,
       "vendidos": 3,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-629145360-flores-secas-ramitos-x-12-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_937915-MLU76569507925_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_937915-MLU76569507925_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_937915-MLU76569507925_052024-F.jpg"
+        "https://http2.mlstatic.com/D_937915-MLU76569507925_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -4195,20 +4278,20 @@
       "estado": "active",
       "condicion": "new",
       "stock_disponible": 1,
-      "vendidos": 8,
+      "vendidos": 10,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-629351091-flores-secas-1000-unidades-de-2-variedades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_737361-MLU54076852842_022023-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_737361-MLU54076852842_022023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_737361-MLU54076852842_022023-F.jpg",
-        "https://http2.mlstatic.com/D_630500-MLU54076900839_022023-F.jpg",
-        "https://http2.mlstatic.com/D_795431-MLU54077042432_022023-F.jpg",
-        "https://http2.mlstatic.com/D_657536-MLU54077082264_022023-F.jpg",
-        "https://http2.mlstatic.com/D_722148-MLU54076915970_022023-F.jpg"
+        "https://http2.mlstatic.com/D_737361-MLU54076852842_022023-O.jpg",
+        "https://http2.mlstatic.com/D_630500-MLU54076900839_022023-O.jpg",
+        "https://http2.mlstatic.com/D_795431-MLU54077042432_022023-O.jpg",
+        "https://http2.mlstatic.com/D_657536-MLU54077082264_022023-O.jpg",
+        "https://http2.mlstatic.com/D_722148-MLU54076915970_022023-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-02-28T17:28:51.000Z",
-      "ultima_actualizacion": "2025-08-18T14:28:52.852Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.402Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4246,9 +4329,9 @@
       "stock_disponible": 0,
       "vendidos": 4,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-629346222-flores-secas-siemprevivas-amarillas-x-35-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_619107-MLU76518854604_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_619107-MLU76518854604_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_619107-MLU76518854604_052024-F.jpg"
+        "https://http2.mlstatic.com/D_619107-MLU76518854604_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -4291,9 +4374,9 @@
       "stock_disponible": 0,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-631649156-flores-secas-y-espigas-120-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_620014-MLU54587974112_032023-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_620014-MLU54587974112_032023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_620014-MLU54587974112_032023-F.jpg"
+        "https://http2.mlstatic.com/D_620014-MLU54587974112_032023-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
@@ -4323,20 +4406,20 @@
       "precio": 640,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
       "stock_disponible": 1,
       "vendidos": 17,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-606250798-flores-secas-pequenas-prensadas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_968078-MLU89883486562_082025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_968078-MLU89883486562_082025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_968078-MLU89883486562_082025-F.jpg",
-        "https://http2.mlstatic.com/D_800623-MLU89883389404_082025-F.jpg"
+        "https://http2.mlstatic.com/D_968078-MLU89883486562_082025-O.jpg",
+        "https://http2.mlstatic.com/D_800623-MLU89883389404_082025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2021-12-30T21:21:44.000Z",
-      "ultima_actualizacion": "2025-08-16T12:58:01.271Z",
+      "ultima_actualizacion": "2025-08-22T22:24:09.836Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4374,14 +4457,14 @@
       "stock_disponible": 0,
       "vendidos": 4,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-636663896-flores-secas-siemprevivas-amarillas-y-naranjas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_956734-MLU76734048083_052024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_956734-MLU76734048083_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_956734-MLU76734048083_052024-F.jpg"
+        "https://http2.mlstatic.com/D_956734-MLU76734048083_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-04-23T17:46:25.000Z",
-      "ultima_actualizacion": "2024-10-17T00:05:14.895Z",
+      "ultima_actualizacion": "2025-09-18T21:56:51.816Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4416,20 +4499,20 @@
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 1,
-      "vendidos": 9,
+      "stock_disponible": 2,
+      "vendidos": 10,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-644139766-flores-secas-super-mix-de-variedades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_781151-MLU69644350113_052023-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_781151-MLU69644350113_052023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_781151-MLU69644350113_052023-F.jpg",
-        "https://http2.mlstatic.com/D_812686-MLU69643953879_052023-F.jpg",
-        "https://http2.mlstatic.com/D_880842-MLU69629654016_052023-F.jpg",
-        "https://http2.mlstatic.com/D_908389-MLU69629760380_052023-F.jpg"
+        "https://http2.mlstatic.com/D_781151-MLU69644350113_052023-O.jpg",
+        "https://http2.mlstatic.com/D_812686-MLU69643953879_052023-O.jpg",
+        "https://http2.mlstatic.com/D_880842-MLU69629654016_052023-O.jpg",
+        "https://http2.mlstatic.com/D_908389-MLU69629760380_052023-O.jpg"
       ],
       "categoria_id": "MLU436247",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-05-27T02:54:09.000Z",
-      "ultima_actualizacion": "2025-07-07T19:50:51.630Z",
+      "ultima_actualizacion": "2026-01-02T22:19:27.149Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4453,8 +4536,8 @@
     },
     {
       "id": "MLU644773500",
-      "titulo": "Flores Secas Gomphfrena X 50 Unidades",
-      "descripcion": "Sin descripción disponible",
+      "titulo": "Flores Secas Gomphfrena X 50 Unidades Blanco",
+      "descripcion": null,
       "precio": 100,
       "moneda": "UYU",
       "precio_original": null,
@@ -4462,15 +4545,15 @@
       "condicion": "new",
       "stock_disponible": 0,
       "vendidos": 1,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-644773500-flores-secas-gomphfrena-x-50-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_702469-MLU69746322772_062023-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-644773500-flores-secas-gomphfrena-x-50-unidades-blanco-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_702469-MLU69746322772_062023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_702469-MLU69746322772_062023-F.jpg"
+        "https://http2.mlstatic.com/D_702469-MLU69746322772_062023-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-06-01T22:39:20.000Z",
-      "ultima_actualizacion": "2024-11-21T14:59:30.073Z",
+      "ultima_actualizacion": "2025-09-18T01:41:21.401Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4479,6 +4562,10 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
         {
           "nombre": "Condición del ítem",
           "valor": "Nuevo"
@@ -4490,7 +4577,7 @@
     },
     {
       "id": "MLU630561973",
-      "titulo": "Flores Secas Ramitos X 15",
+      "titulo": "Flores Secas Ramitos X 15 Blanco",
       "descripcion": "15 ramitos de flores secas y espigas\nAltura 20 cm",
       "precio": 500,
       "moneda": "UYU",
@@ -4499,15 +4586,15 @@
       "condicion": "new",
       "stock_disponible": 2,
       "vendidos": 3,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-630561973-flores-secas-ramitos-x-15-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_715016-MLU76713329641_052024-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-630561973-flores-secas-ramitos-x-15-blanco-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_715016-MLU76713329641_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_715016-MLU76713329641_052024-F.jpg"
+        "https://http2.mlstatic.com/D_715016-MLU76713329641_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-06-01T22:58:17.000Z",
-      "ultima_actualizacion": "2025-07-29T01:28:47.413Z",
+      "ultima_actualizacion": "2025-09-18T01:42:07.728Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4516,6 +4603,10 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -4535,25 +4626,25 @@
     },
     {
       "id": "MLU646732090",
-      "titulo": "Flores Secas Espigas De Alpiste X 500 Unidades",
+      "titulo": "Flores Secas Espigas De Alpiste X 500 Unidades Blanco",
       "descripcion": "500 espigas secas de alpiste\n5 atados de 100 espigas c/u.\nColor natural.\nTamaño de espiga de 2 a 3,5 cm de largo.\nLargo total 30 a 40 cm.",
-      "precio": 950,
+      "precio": 980,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 1,
-      "vendidos": 5,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-646732090-flores-secas-espigas-de-alpiste-x-500-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_982877-MLU80470597562_112024-F.jpg",
+      "stock_disponible": 2,
+      "vendidos": 6,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-646732090-flores-secas-espigas-de-alpiste-x-500-unidades-blanco-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_982877-MLU80470597562_112024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_982877-MLU80470597562_112024-F.jpg",
-        "https://http2.mlstatic.com/D_965898-MLU80470597556_112024-F.jpg"
+        "https://http2.mlstatic.com/D_982877-MLU80470597562_112024-O.jpg",
+        "https://http2.mlstatic.com/D_965898-MLU80470597556_112024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-06-20T23:34:43.000Z",
-      "ultima_actualizacion": "2025-06-27T16:29:52.781Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.305Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4562,6 +4653,10 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -4581,24 +4676,24 @@
     },
     {
       "id": "MLU647118650",
-      "titulo": "Flores Secas Alpiste X 300 Espigas",
+      "titulo": "Flores Secas Alpiste X 300 Espigas Blanco",
       "descripcion": "300 espigaa secas de alpiste",
       "precio": 580,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 2,
-      "vendidos": 1,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-647118650-flores-secas-alpiste-x-300-espigas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_802771-MLU80989273839_112024-F.jpg",
+      "stock_disponible": 5,
+      "vendidos": 2,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-647118650-flores-secas-alpiste-x-300-espigas-blanco-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_802771-MLU80989273839_112024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_802771-MLU80989273839_112024-F.jpg"
+        "https://http2.mlstatic.com/D_802771-MLU80989273839_112024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-06-22T12:42:30.000Z",
-      "ultima_actualizacion": "2025-06-13T16:55:12.238Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.410Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4607,6 +4702,10 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -4626,24 +4725,24 @@
     },
     {
       "id": "MLU647776900",
-      "titulo": "Flores Secas Amapolas",
+      "titulo": "Flores Secas Amapolas Blanco",
       "descripcion": "Amapolas secas para arreglos florales\n50unidades",
       "precio": 450,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 3,
-      "vendidos": 1,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-647776900-flores-secas-amapolas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_690245-MLU76282248090_052024-F.jpg",
+      "stock_disponible": 2,
+      "vendidos": 2,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-647776900-flores-secas-amapolas-blanco-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_690245-MLU76282248090_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_690245-MLU76282248090_052024-F.jpg"
+        "https://http2.mlstatic.com/D_690245-MLU76282248090_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-06-27T22:05:26.000Z",
-      "ultima_actualizacion": "2025-03-23T20:29:13.309Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.307Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4652,6 +4751,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
+        {
+          "nombre": "Código universal de producto",
+          "valor": "0123456789"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -4671,24 +4778,24 @@
     },
     {
       "id": "MLU653223056",
-      "titulo": "Espigas De Alpiste 100 Unidades",
+      "titulo": "Espigas De Alpiste 100 Unidades Verde",
       "descripcion": "100 espigas de alpiste",
       "precio": 350,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 2,
-      "vendidos": 2,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-653223056-espigas-de-alpiste-100-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_921181-MLU71081899603_082023-F.jpg",
+      "stock_disponible": 1,
+      "vendidos": 5,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-653223056-espigas-de-alpiste-100-unidades-verde-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_921181-MLU71081899603_082023-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_921181-MLU71081899603_082023-F.jpg"
+        "https://http2.mlstatic.com/D_921181-MLU71081899603_082023-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2023-08-15T02:16:25.000Z",
-      "ultima_actualizacion": "2025-07-15T00:55:55.242Z",
+      "ultima_actualizacion": "2026-01-07T18:09:17.037Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4698,8 +4805,32 @@
       },
       "atributos": [
         {
+          "nombre": "Color",
+          "valor": "Verde"
+        },
+        {
           "nombre": "Condición del ítem",
           "valor": "Nuevo"
+        },
+        {
+          "nombre": "Altura del paquete del seller",
+          "valor": "9 cm"
+        },
+        {
+          "nombre": "Largo del paquete del seller",
+          "valor": "8 cm"
+        },
+        {
+          "nombre": "Tipo de paquete del seller",
+          "valor": "Con embalaje adicional"
+        },
+        {
+          "nombre": "Peso del paquete del seller",
+          "valor": "50 g"
+        },
+        {
+          "nombre": "Ancho del paquete del seller",
+          "valor": "8 cm"
         }
       ],
       "garantia": "Garantía del vendedor: 2 meses",
@@ -4713,21 +4844,21 @@
       "precio": 400,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "under_review",
       "condicion": "new",
       "stock_disponible": 2,
       "vendidos": 1,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-620073561-espigas-de-avena-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_646835-MLU76938297362_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_646835-MLU76938297362_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_646835-MLU76938297362_062024-F.jpg",
-        "https://http2.mlstatic.com/D_971155-MLU77147702133_062024-F.jpg",
-        "https://http2.mlstatic.com/D_862267-MLU76938219054_062024-F.jpg"
+        "https://http2.mlstatic.com/D_646835-MLU76938297362_062024-O.jpg",
+        "https://http2.mlstatic.com/D_971155-MLU77147702133_062024-O.jpg",
+        "https://http2.mlstatic.com/D_862267-MLU76938219054_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2022-10-17T20:49:33.000Z",
-      "ultima_actualizacion": "2025-07-07T23:07:20.447Z",
+      "ultima_actualizacion": "2026-01-02T22:20:05.729Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4755,24 +4886,24 @@
     },
     {
       "id": "MLU677420800",
-      "titulo": "Flores Secas Mix",
-      "descripcion": "Sin descripción disponible",
+      "titulo": "Flores Secas Mix Surtido",
+      "descripcion": null,
       "precio": 400,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 2,
-      "vendidos": 29,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-677420800-flores-secas-mix-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_696064-MLU76536951334_052024-F.jpg",
+      "stock_disponible": 3,
+      "vendidos": 42,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-677420800-flores-secas-mix-surtido-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_696064-MLU76536951334_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_696064-MLU76536951334_052024-F.jpg"
+        "https://http2.mlstatic.com/D_696064-MLU76536951334_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-04-23T13:58:00.226Z",
-      "ultima_actualizacion": "2025-08-12T11:40:20.101Z",
+      "ultima_actualizacion": "2026-01-07T18:10:01.607Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4781,6 +4912,10 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Surtido"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -4800,8 +4935,8 @@
     },
     {
       "id": "MLU639637293",
-      "titulo": "Flores Secas Amapolas",
-      "descripcion": "40 varas de amapolas .",
+      "titulo": "Flores Secas Amapolas Blanco",
+      "descripcion": "40 varas secas de amapolas .",
       "precio": 400,
       "moneda": "UYU",
       "precio_original": null,
@@ -4809,15 +4944,15 @@
       "condicion": "new",
       "stock_disponible": 3,
       "vendidos": 1,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-639637293-flores-secas-amapolas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_727749-MLU76026720962_052024-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-639637293-flores-secas-amapolas-blanco-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_727749-MLU76026720962_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_727749-MLU76026720962_052024-F.jpg"
+        "https://http2.mlstatic.com/D_727749-MLU76026720962_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-05-06T21:40:15.811Z",
-      "ultima_actualizacion": "2024-12-31T12:15:10.657Z",
+      "ultima_actualizacion": "2025-11-18T05:41:12.219Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4826,6 +4961,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
+        {
+          "nombre": "Código universal de producto",
+          "valor": "0123456789"
+        },
         {
           "nombre": "Condición del ítem",
           "valor": "Nuevo"
@@ -4837,26 +4980,26 @@
     },
     {
       "id": "MLU639623935",
-      "titulo": "Flores Secas En Organizador S",
+      "titulo": "Flores Secas En Organizador S Blanco",
       "descripcion": "Organizador plástico pequeño(tamaño S) con flores secas prensadas y con volumen .\nCantidad total de flores 130 aprox. (siemprevivas 15 , gomphfrena 15 , statice 30. Pensamientos 12 , flores chicas 40 , hojas 20 .\nMedidas del organizador : 15 x 8,5 x 3cm de altura.",
       "precio": 750,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
-      "stock_disponible": 1,
-      "vendidos": 5,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-639623935-flores-secas-en-organizador-s-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_809263-MLU76502062409_052024-F.jpg",
+      "stock_disponible": 0,
+      "vendidos": 7,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-639623935-flores-secas-en-organizador-s-blanco-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_809263-MLU76502062409_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_809263-MLU76502062409_052024-F.jpg",
-        "https://http2.mlstatic.com/D_855169-MLU76502091763_052024-F.jpg",
-        "https://http2.mlstatic.com/D_898301-MLU76310843818_052024-F.jpg"
+        "https://http2.mlstatic.com/D_809263-MLU76502062409_052024-O.jpg",
+        "https://http2.mlstatic.com/D_855169-MLU76502091763_052024-O.jpg",
+        "https://http2.mlstatic.com/D_898301-MLU76310843818_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-05-06T20:24:27.803Z",
-      "ultima_actualizacion": "2025-07-20T14:52:52.181Z",
+      "ultima_actualizacion": "2026-01-17T22:36:02.895Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4865,6 +5008,18 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "Otra razón"
+        },
+        {
+          "nombre": "SKU",
+          "valor": "123456789"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -4884,7 +5039,7 @@
     },
     {
       "id": "MLU679926114",
-      "titulo": "Flores Secas Frasquitos 5 Unidades",
+      "titulo": "Flores Secas Frasquitos 5 Unidades Blanco",
       "descripcion": "5 frasquitos de vidrio con flores secas.\nAltura total del frasco 10 cm\nDiámetro 3 cm.",
       "precio": 590,
       "moneda": "UYU",
@@ -4893,15 +5048,15 @@
       "condicion": "new",
       "stock_disponible": 2,
       "vendidos": 0,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-679926114-flores-secas-frasquitos-5-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_610855-MLU76472547629_052024-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-679926114-flores-secas-frasquitos-5-unidades-blanco-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_610855-MLU76472547629_052024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_610855-MLU76472547629_052024-F.jpg"
+        "https://http2.mlstatic.com/D_610855-MLU76472547629_052024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-05-19T12:58:46.262Z",
-      "ultima_actualizacion": "2025-05-20T05:31:53.436Z",
+      "ultima_actualizacion": "2025-09-18T03:42:07.946Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4910,6 +5065,10 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -4929,7 +5088,7 @@
     },
     {
       "id": "MLU682235102",
-      "titulo": "Flores Secas Mazorcas Chicas Para Decoración",
+      "titulo": "Flores Secas Mazorcas Chicas Para Decoración Ocre",
       "descripcion": "10 mazorcas chicas secas para usos decorativos.\nTamaño de espiga 10 a 12 cm.\nLargo total 30 a 35 cm",
       "precio": 400,
       "moneda": "UYU",
@@ -4938,15 +5097,15 @@
       "condicion": "new",
       "stock_disponible": 5,
       "vendidos": 0,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-682235102-flores-secas-mazorcas-chicas-para-decoracion-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_823231-MLU76948945029_062024-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-682235102-flores-secas-mazorcas-chicas-para-decoracion-ocre-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_823231-MLU76948945029_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_823231-MLU76948945029_062024-F.jpg"
+        "https://http2.mlstatic.com/D_823231-MLU76948945029_062024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-06-11T22:32:43.354Z",
-      "ultima_actualizacion": "2025-03-18T00:46:53.806Z",
+      "ultima_actualizacion": "2025-09-18T03:54:11.263Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -4955,6 +5114,10 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Ocre"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -4974,7 +5137,7 @@
     },
     {
       "id": "MLU682203698",
-      "titulo": "Flores Secas Eucaliptus",
+      "titulo": "Flores Secas Eucaliptus - Seco",
       "descripcion": "10 ramas secas de eucaliptus cinerea.\nLargo de 40 a 50 cm",
       "precio": 480,
       "moneda": "UYU",
@@ -4982,16 +5145,16 @@
       "estado": "paused",
       "condicion": "new",
       "stock_disponible": 0,
-      "vendidos": 10,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-682203698-flores-secas-eucaliptus-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_843049-MLU76736571022_062024-F.jpg",
+      "vendidos": 13,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-682203698-flores-secas-eucaliptus-seco-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_843049-MLU76736571022_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_843049-MLU76736571022_062024-F.jpg"
+        "https://http2.mlstatic.com/D_843049-MLU76736571022_062024-O.jpg"
       ],
       "categoria_id": "MLU412644",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-06-11T14:49:35.870Z",
-      "ultima_actualizacion": "2025-07-05T14:42:33.056Z",
+      "ultima_actualizacion": "2025-11-05T05:29:47.895Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5002,7 +5165,15 @@
       "atributos": [
         {
           "nombre": "Marca",
-          "valor": "-1"
+          "valor": null
+        },
+        {
+          "nombre": "Color",
+          "valor": "Seco"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
         },
         {
           "nombre": "Formato de la flor",
@@ -5026,7 +5197,7 @@
         },
         {
           "nombre": "Formato de venta",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Largo total",
@@ -5049,9 +5220,9 @@
       "stock_disponible": 2,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-682151694-flores-secas-mazorcas-para-decoracion-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_818793-MLU76735893852_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_818793-MLU76735893852_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_818793-MLU76735893852_062024-F.jpg"
+        "https://http2.mlstatic.com/D_818793-MLU76735893852_062024-O.jpg"
       ],
       "categoria_id": "MLU1902",
       "tipo_listado": "gold_special",
@@ -5079,7 +5250,7 @@
         },
         {
           "nombre": "Estilo",
-          "valor": "-1"
+          "valor": null
         }
       ],
       "garantia": "Garantía del vendedor: 60 días",
@@ -5088,26 +5259,26 @@
     },
     {
       "id": "MLU682136202",
-      "titulo": "Flores Secas 10 Mini Ramitos",
+      "titulo": "Flores Secas 10 Mini Ramitos Surtido",
       "descripcion": "10 ramitos de flores secas.\nColores  surtidos.\nLargo 15 cm",
-      "precio": 300,
+      "precio": 320,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 0,
-      "vendidos": 33,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-682136202-flores-secas-10-mini-ramitos-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_708910-MLU76763461942_062024-F.jpg",
+      "stock_disponible": 2,
+      "vendidos": 48,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-682136202-flores-secas-10-mini-ramitos-surtido-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_708910-MLU76763461942_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_708910-MLU76763461942_062024-F.jpg",
-        "https://http2.mlstatic.com/D_780375-MLU84187123976_052025-F.jpg",
-        "https://http2.mlstatic.com/D_979744-MLU84187270656_052025-F.jpg"
+        "https://http2.mlstatic.com/D_708910-MLU76763461942_062024-O.jpg",
+        "https://http2.mlstatic.com/D_780375-MLU84187123976_052025-O.jpg",
+        "https://http2.mlstatic.com/D_979744-MLU84187270656_052025-O.jpg"
       ],
       "categoria_id": "MLU412644",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-06-12T19:45:51.809Z",
-      "ultima_actualizacion": "2025-08-19T14:39:43.958Z",
+      "ultima_actualizacion": "2026-01-15T20:42:40.107Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5116,6 +5287,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Surtido"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
         {
           "nombre": "Marca",
           "valor": "Q"
@@ -5138,11 +5317,11 @@
         },
         {
           "nombre": "Material",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Formato de venta",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Largo total",
@@ -5155,7 +5334,7 @@
     },
     {
       "id": "MLU682941090",
-      "titulo": "Flores Secas En Organizador M",
+      "titulo": "Flores Secas En Organizador M Blanco",
       "descripcion": "Organizador con flores y espigas secas.\nIdeal para decorar velas, souvenirs \nTamaño del organizador 17 x 28 x 4 cm.\nCantidad de flores aprox. Siemprevivas 40 u.\nGomhprena 40 , celosía 30 u. Statices 150 u.\nEspigas variadas 150 u.",
       "precio": 1250,
       "moneda": "UYU",
@@ -5163,17 +5342,17 @@
       "estado": "active",
       "condicion": "new",
       "stock_disponible": 1,
-      "vendidos": 3,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-682941090-flores-secas-en-organizador-m-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_637701-MLU77075984553_062024-F.jpg",
+      "vendidos": 5,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-682941090-flores-secas-en-organizador-m-blanco-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_637701-MLU77075984553_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_637701-MLU77075984553_062024-F.jpg",
-        "https://http2.mlstatic.com/D_883455-MLU76868122748_062024-F.jpg"
+        "https://http2.mlstatic.com/D_637701-MLU77075984553_062024-O.jpg",
+        "https://http2.mlstatic.com/D_883455-MLU76868122748_062024-O.jpg"
       ],
       "categoria_id": "MLU412644",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-06-18T01:40:14.659Z",
-      "ultima_actualizacion": "2025-08-01T21:43:23.383Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.403Z",
       "envio_gratis": true,
       "metodos_envio": [],
       "ubicacion": {
@@ -5183,12 +5362,20 @@
       },
       "atributos": [
         {
+          "nombre": "Color",
+          "valor": "Blanco"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
+        {
           "nombre": "Marca",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Formato de la flor",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Nombre de la flor",
@@ -5204,15 +5391,15 @@
         },
         {
           "nombre": "Material",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Formato de venta",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Largo total",
-          "valor": "-1"
+          "valor": null
         }
       ],
       "garantia": "Garantía del vendedor: 60 días",
@@ -5231,10 +5418,10 @@
       "stock_disponible": 1,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-683388560-ramitos-de-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_875616-MLU76931448490_062024-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_875616-MLU76931448490_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_875616-MLU76931448490_062024-F.jpg",
-        "https://http2.mlstatic.com/D_796290-MLU76931428500_062024-F.jpg"
+        "https://http2.mlstatic.com/D_875616-MLU76931448490_062024-O.jpg",
+        "https://http2.mlstatic.com/D_796290-MLU76931428500_062024-O.jpg"
       ],
       "categoria_id": "MLU77736",
       "tipo_listado": "gold_special",
@@ -5250,7 +5437,7 @@
       "atributos": [
         {
           "nombre": "Ambientes",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Altura",
@@ -5258,7 +5445,7 @@
         },
         {
           "nombre": "Incluye maceta para planta",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Condición del ítem",
@@ -5266,7 +5453,7 @@
         },
         {
           "nombre": "Cantidad de plantas",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Tipo de planta",
@@ -5283,8 +5470,8 @@
     },
     {
       "id": "MLU684181892",
-      "titulo": "Frasquitos Con Flores Secas 5 Unidades",
-      "descripcion": "Sin descripción disponible",
+      "titulo": "Frasquitos Con Flores Secas 5 Unidades Surtidos",
+      "descripcion": null,
       "precio": 580,
       "moneda": "UYU",
       "precio_original": null,
@@ -5292,15 +5479,15 @@
       "condicion": "new",
       "stock_disponible": 1,
       "vendidos": 0,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-684181892-frasquitos-con-flores-secas-5-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_732722-MLU77222698561_062024-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-684181892-frasquitos-con-flores-secas-5-unidades-surtidos-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_732722-MLU77222698561_062024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_732722-MLU77222698561_062024-F.jpg"
+        "https://http2.mlstatic.com/D_732722-MLU77222698561_062024-O.jpg"
       ],
       "categoria_id": "MLU388817",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-06-24T21:34:33.748Z",
-      "ultima_actualizacion": "2025-06-24T10:58:35.645Z",
+      "ultima_actualizacion": "2025-09-18T03:39:45.248Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5310,16 +5497,24 @@
       },
       "atributos": [
         {
+          "nombre": "Color",
+          "valor": "Surtidos"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
+        {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
         },
         {
           "nombre": "Tipo de paño de limpieza",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Es antibacteriana",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Condición del ítem",
@@ -5327,11 +5522,11 @@
         },
         {
           "nombre": "Largo",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Material",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Modelo",
@@ -5339,7 +5534,7 @@
         },
         {
           "nombre": "Número de registro de producto del MS",
-          "valor": "-1"
+          "valor": null
         },
         {
           "nombre": "Usos recomendados",
@@ -5348,6 +5543,14 @@
         {
           "nombre": "Formato de venta",
           "valor": "Pack"
+        },
+        {
+          "nombre": "Unidades por pack",
+          "valor": "5"
+        },
+        {
+          "nombre": "Ancho",
+          "valor": null
         }
       ],
       "garantia": "Garantía del vendedor: 60 días",
@@ -5356,25 +5559,25 @@
     },
     {
       "id": "MLU690745956",
-      "titulo": "Flores Secas Eucaliptus",
+      "titulo": "Flores Secas Eucaliptus Ramas Secas",
       "descripcion": "12 ramas de eucaliptus cinerea de 20 a 35 cm",
       "precio": 400,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "paused",
+      "estado": "active",
       "condicion": "new",
-      "stock_disponible": 0,
-      "vendidos": 9,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-690745956-flores-secas-eucaliptus-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_804464-MLU78536678759_082024-F.jpg",
+      "stock_disponible": 2,
+      "vendidos": 11,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-690745956-flores-secas-eucaliptus-ramas-secas-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_804464-MLU78536678759_082024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_804464-MLU78536678759_082024-F.jpg",
-        "https://http2.mlstatic.com/D_808773-MLU78536660635_082024-F.jpg"
+        "https://http2.mlstatic.com/D_804464-MLU78536678759_082024-O.jpg",
+        "https://http2.mlstatic.com/D_808773-MLU78536660635_082024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-08-19T22:50:25.203Z",
-      "ultima_actualizacion": "2025-05-25T16:48:31.259Z",
+      "ultima_actualizacion": "2026-01-16T18:04:00.887Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5383,6 +5586,10 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Ramas secas"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5402,8 +5609,8 @@
     },
     {
       "id": "MLU691682118",
-      "titulo": "Flores Secas Siempre Vivas",
-      "descripcion": "Sin descripción disponible",
+      "titulo": "Flores Secas Siempre Vivas Surtidas",
+      "descripcion": null,
       "precio": 450,
       "moneda": "UYU",
       "precio_original": null,
@@ -5411,15 +5618,15 @@
       "condicion": "new",
       "stock_disponible": 2,
       "vendidos": 0,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-691682118-flores-secas-siempre-vivas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_978111-MLU78655127301_082024-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-691682118-flores-secas-siempre-vivas-surtidas-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_978111-MLU78655127301_082024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_978111-MLU78655127301_082024-F.jpg"
+        "https://http2.mlstatic.com/D_978111-MLU78655127301_082024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-08-23T21:53:44.436Z",
-      "ultima_actualizacion": "2025-08-19T07:17:55.871Z",
+      "ultima_actualizacion": "2025-09-18T03:45:51.824Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5428,6 +5635,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Surtidas"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5447,7 +5662,7 @@
     },
     {
       "id": "MLU691615076",
-      "titulo": "Flores Secas Siemprevivas Pequeñas 300 Unidades",
+      "titulo": "Flores Secas Siemprevivas Pequeñas 300 Unidades Surtidos",
       "descripcion": "300 flores secas de siemprevivas .\nTamaño entre 1,5 y 2,5 cm de diàmetro.",
       "precio": 420,
       "moneda": "UYU",
@@ -5456,16 +5671,16 @@
       "condicion": "new",
       "stock_disponible": 0,
       "vendidos": 2,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-691615076-flores-secas-siemprevivas-pequenas-300-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_845771-MLU78415188412_082024-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-691615076-flores-secas-siemprevivas-pequenas-300-unidades-surtidos-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_845771-MLU78415188412_082024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_845771-MLU78415188412_082024-F.jpg",
-        "https://http2.mlstatic.com/D_643384-MLU78657484387_082024-F.jpg"
+        "https://http2.mlstatic.com/D_845771-MLU78415188412_082024-O.jpg",
+        "https://http2.mlstatic.com/D_643384-MLU78657484387_082024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-08-23T14:16:53.793Z",
-      "ultima_actualizacion": "2024-11-07T21:11:49.700Z",
+      "ultima_actualizacion": "2025-09-18T03:46:45.796Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5474,6 +5689,10 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Surtidos"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5493,25 +5712,25 @@
     },
     {
       "id": "MLU693755386",
-      "titulo": "Flores Secas Pensamientos 50 Unidades",
+      "titulo": "Flores Secas Pensamientos 50 Unidades Surtido",
       "descripcion": "50 flores secas prensadas de pensamientos ( violas ).\nDiámetro de flor entre 2,5 y 3,5 cm.\nColores surtidos.",
       "precio": 650,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 1,
-      "vendidos": 1,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-693755386-flores-secas-pensamientos-50-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_661904-MLU79357620207_092024-F.jpg",
+      "stock_disponible": 2,
+      "vendidos": 4,
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-693755386-flores-secas-pensamientos-50-unidades-surtido-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_661904-MLU79357620207_092024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_661904-MLU79357620207_092024-F.jpg",
-        "https://http2.mlstatic.com/D_984526-MLU79357561477_092024-F.jpg"
+        "https://http2.mlstatic.com/D_661904-MLU79357620207_092024-O.jpg",
+        "https://http2.mlstatic.com/D_984526-MLU79357561477_092024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-09-18T23:02:51.078Z",
-      "ultima_actualizacion": "2025-08-16T13:00:21.339Z",
+      "ultima_actualizacion": "2026-01-02T22:19:15.294Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5520,6 +5739,10 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Surtido"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5539,7 +5762,7 @@
     },
     {
       "id": "MLU693729106",
-      "titulo": "Flores Secas Pensamientos 80 Unidades",
+      "titulo": "Flores Secas Pensamientos 80 Unidades Surtido",
       "descripcion": "80 flores de pensamientos ( violas) prensadas .\nDiámetro de las flores : de 2,5 cm a 3,5cm.\nColores surtidos\nIdeal para trabajos en resina.",
       "precio": 920,
       "moneda": "UYU",
@@ -5548,16 +5771,16 @@
       "condicion": "new",
       "stock_disponible": 2,
       "vendidos": 0,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-693729106-flores-secas-pensamientos-80-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_895266-MLU79115899342_092024-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-693729106-flores-secas-pensamientos-80-unidades-surtido-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_895266-MLU79115899342_092024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_895266-MLU79115899342_092024-F.jpg",
-        "https://http2.mlstatic.com/D_776786-MLU79357697117_092024-F.jpg"
+        "https://http2.mlstatic.com/D_895266-MLU79115899342_092024-O.jpg",
+        "https://http2.mlstatic.com/D_776786-MLU79357697117_092024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-09-18T22:51:34.366Z",
-      "ultima_actualizacion": "2024-12-31T01:02:36.034Z",
+      "ultima_actualizacion": "2025-12-16T05:15:10.014Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5566,6 +5789,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Surtido"
+        },
+        {
+          "nombre": "SKU",
+          "valor": "1928"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5585,8 +5816,8 @@
     },
     {
       "id": "MLU706234460",
-      "titulo": "Ramo De Flores Secas",
-      "descripcion": "Sin descripción disponible",
+      "titulo": "Ramo De Flores Secas Surtidos",
+      "descripcion": null,
       "precio": 1600,
       "moneda": "UYU",
       "precio_original": null,
@@ -5594,15 +5825,15 @@
       "condicion": "new",
       "stock_disponible": 1,
       "vendidos": 2,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-706234460-ramo-de-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_913132-MLU81595437357_122024-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-706234460-ramo-de-flores-secas-surtidos-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_913132-MLU81595437357_122024-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_913132-MLU81595437357_122024-F.jpg"
+        "https://http2.mlstatic.com/D_913132-MLU81595437357_122024-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2024-12-24T13:01:46.515Z",
-      "ultima_actualizacion": "2025-06-22T19:12:30.736Z",
+      "ultima_actualizacion": "2025-09-18T04:11:14.072Z",
       "envio_gratis": true,
       "metodos_envio": [],
       "ubicacion": {
@@ -5611,6 +5842,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Surtidos"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5630,7 +5869,7 @@
     },
     {
       "id": "MLU708594836",
-      "titulo": "Flores Secas Prensadas Muy Pequeñas",
+      "titulo": "Flores Secas Prensadas Muy Pequeñas Surtido",
       "descripcion": "Mix de flores secas prensadas pequeñas.\n ( alrededor de 1 cm de diámetro )\nIdeal trabajos en resina",
       "precio": 550,
       "moneda": "UYU",
@@ -5639,16 +5878,16 @@
       "condicion": "new",
       "stock_disponible": 1,
       "vendidos": 0,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-708594836-flores-secas-prensadas-muy-pequenas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_967975-MLU82104181891_012025-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-708594836-flores-secas-prensadas-muy-pequenas-surtido-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_967975-MLU82104181891_012025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_967975-MLU82104181891_012025-F.jpg",
-        "https://http2.mlstatic.com/D_919960-MLU82104250543_012025-F.jpg"
+        "https://http2.mlstatic.com/D_967975-MLU82104181891_012025-O.jpg",
+        "https://http2.mlstatic.com/D_919960-MLU82104250543_012025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2025-01-24T20:13:38.567Z",
-      "ultima_actualizacion": "2025-05-08T02:02:29.239Z",
+      "ultima_actualizacion": "2025-09-18T03:43:05.052Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5657,6 +5896,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Surtido"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5676,7 +5923,7 @@
     },
     {
       "id": "MLU709957654",
-      "titulo": "Zapallitos Decorativos X 15",
+      "titulo": "Zapallitos Decorativos X 15 Amarillo-verde",
       "descripcion": "15 zapallitos decorativos.\nMiden 8cm aprox.de largo y 5cm de ancho.\nEl color es natural del zapallito , luego de pasado unos meses el color se va y quedan de color natural seco. \nLuego se pueden pintar a gusto o utilizarlos para artesanias.",
       "precio": 400,
       "moneda": "UYU",
@@ -5685,17 +5932,17 @@
       "condicion": "new",
       "stock_disponible": 4,
       "vendidos": 0,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-709957654-zapallitos-decorativos-x-15-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_716630-MLU82222540137_022025-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-709957654-zapallitos-decorativos-x-15-amarillo-verde-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_716630-MLU82222540137_022025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_716630-MLU82222540137_022025-F.jpg",
-        "https://http2.mlstatic.com/D_979928-MLU82222520323_022025-F.jpg",
-        "https://http2.mlstatic.com/D_706731-MLU82222625941_022025-F.jpg"
+        "https://http2.mlstatic.com/D_716630-MLU82222540137_022025-O.jpg",
+        "https://http2.mlstatic.com/D_979928-MLU82222520323_022025-O.jpg",
+        "https://http2.mlstatic.com/D_706731-MLU82222625941_022025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2025-02-02T12:55:18.852Z",
-      "ultima_actualizacion": "2025-03-18T00:42:29.625Z",
+      "ultima_actualizacion": "2025-09-18T03:55:27.703Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5704,6 +5951,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Amarillo-verde"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5724,7 +5979,7 @@
     {
       "id": "MLU710490728",
       "titulo": "Lágrimas De Job 50 Semillas",
-      "descripcion": "Sin descripción disponible",
+      "descripcion": null,
       "precio": 280,
       "moneda": "UYU",
       "precio_original": null,
@@ -5733,16 +5988,16 @@
       "stock_disponible": 2,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-710490728-lagrimas-de-job-50-semillas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_775563-MLU82269562711_022025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_775563-MLU82269562711_022025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_775563-MLU82269562711_022025-F.jpg",
-        "https://http2.mlstatic.com/D_912678-MLU82269820243_022025-F.jpg",
-        "https://http2.mlstatic.com/D_623496-MLU82269800455_022025-F.jpg"
+        "https://http2.mlstatic.com/D_775563-MLU82269562711_022025-O.jpg",
+        "https://http2.mlstatic.com/D_912678-MLU82269820243_022025-O.jpg",
+        "https://http2.mlstatic.com/D_623496-MLU82269800455_022025-O.jpg"
       ],
-      "categoria_id": "MLU1643",
+      "categoria_id": "MLU168683",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2025-02-05T15:17:09.000Z",
-      "ultima_actualizacion": "2025-02-05T15:18:49.260Z",
+      "ultima_actualizacion": "2026-01-02T22:43:30.174Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5752,8 +6007,16 @@
       },
       "atributos": [
         {
+          "nombre": "Color",
+          "valor": "Tonos grises"
+        },
+        {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
         },
         {
           "nombre": "Condición del ítem",
@@ -5762,6 +6025,14 @@
         {
           "nombre": "Fabricante",
           "valor": "Mel Creaciones"
+        },
+        {
+          "nombre": "Tipo de semillas",
+          "valor": "Lágrimas de Job"
+        },
+        {
+          "nombre": "Unidades por envase",
+          "valor": "50"
         }
       ],
       "garantia": "Garantía del vendedor: 60 días",
@@ -5770,27 +6041,27 @@
     },
     {
       "id": "MLU710442352",
-      "titulo": "Ramo Flores Secas Naturales X 2",
+      "titulo": "Ramo Flores Secas Naturales X 2 Tonos Violetas-blancos",
       "descripcion": "2 ramos de flores secas tamaño\n chico-mediano .\nAltura 35 cm aprox.\nContiene flores de statices violetas,lilas y blanco . \nEspigas de trigo, alpiste y avena.\nFollaje de eucalipto",
       "precio": 720,
       "moneda": "UYU",
       "precio_original": null,
-      "estado": "active",
+      "estado": "paused",
       "condicion": "new",
       "stock_disponible": 2,
       "vendidos": 0,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-710442352-ramo-flores-secas-naturales-x-2-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_880455-MLU82276775669_022025-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-710442352-ramo-flores-secas-naturales-x-2-tonos-violetas-blancos-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_880455-MLU82276775669_022025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_880455-MLU82276775669_022025-F.jpg",
-        "https://http2.mlstatic.com/D_924687-MLU81994941840_022025-F.jpg",
-        "https://http2.mlstatic.com/D_737703-MLU82276775679_022025-F.jpg",
-        "https://http2.mlstatic.com/D_751227-MLU81994961356_022025-F.jpg"
+        "https://http2.mlstatic.com/D_880455-MLU82276775669_022025-O.jpg",
+        "https://http2.mlstatic.com/D_924687-MLU81994941840_022025-O.jpg",
+        "https://http2.mlstatic.com/D_737703-MLU82276775679_022025-O.jpg",
+        "https://http2.mlstatic.com/D_751227-MLU81994961356_022025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2025-02-05T23:17:38.688Z",
-      "ultima_actualizacion": "2025-08-02T21:32:17.888Z",
+      "ultima_actualizacion": "2025-09-18T03:57:14.452Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5799,6 +6070,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Tonos violetas-blancos"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5828,16 +6107,16 @@
       "stock_disponible": 2,
       "vendidos": 0,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-710309144-lagrimas-de-job-100-semillas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_864384-MLU82268440829_022025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_864384-MLU82268440829_022025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_864384-MLU82268440829_022025-F.jpg",
-        "https://http2.mlstatic.com/D_772774-MLU81986424116_022025-F.jpg",
-        "https://http2.mlstatic.com/D_899366-MLU82268113615_022025-F.jpg"
+        "https://http2.mlstatic.com/D_864384-MLU82268440829_022025-O.jpg",
+        "https://http2.mlstatic.com/D_772774-MLU81986424116_022025-O.jpg",
+        "https://http2.mlstatic.com/D_899366-MLU82268113615_022025-O.jpg"
       ],
-      "categoria_id": "MLU1643",
+      "categoria_id": "MLU168683",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2025-02-05T14:17:28.411Z",
-      "ultima_actualizacion": "2025-02-05T20:51:18.143Z",
+      "ultima_actualizacion": "2026-01-10T23:04:17.620Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5847,8 +6126,16 @@
       },
       "atributos": [
         {
+          "nombre": "Color",
+          "valor": "Tonos grises"
+        },
+        {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
         },
         {
           "nombre": "Condición del ítem",
@@ -5857,6 +6144,14 @@
         {
           "nombre": "Fabricante",
           "valor": "Mel Creaciones"
+        },
+        {
+          "nombre": "Tipo de semillas",
+          "valor": "Lágrimas de Job"
+        },
+        {
+          "nombre": "Unidades por envase",
+          "valor": "100"
         }
       ],
       "garantia": "Garantía del vendedor: 60 días",
@@ -5865,7 +6160,7 @@
     },
     {
       "id": "MLU711081578",
-      "titulo": "Ramitos De Flores Secas Statices X 15",
+      "titulo": "Ramitos De Flores Secas Statices X 15 Surtidos",
       "descripcion": "15 ramitos de statices\nColores surtidos , blancos , lilas , violetas , amarillo y celeste\nAltura 15 cm",
       "precio": 700,
       "moneda": "UYU",
@@ -5874,18 +6169,18 @@
       "condicion": "new",
       "stock_disponible": 0,
       "vendidos": 5,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-711081578-ramitos-de-flores-secas-statices-x-15-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_916231-MLU82331362669_022025-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-711081578-ramitos-de-flores-secas-statices-x-15-surtidos-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_916231-MLU82331362669_022025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_916231-MLU82331362669_022025-F.jpg",
-        "https://http2.mlstatic.com/D_863320-MLU82331635187_022025-F.jpg",
-        "https://http2.mlstatic.com/D_644638-MLU82331362813_022025-F.jpg",
-        "https://http2.mlstatic.com/D_908250-MLU82331429609_022025-F.jpg"
+        "https://http2.mlstatic.com/D_916231-MLU82331362669_022025-O.jpg",
+        "https://http2.mlstatic.com/D_863320-MLU82331635187_022025-O.jpg",
+        "https://http2.mlstatic.com/D_644638-MLU82331362813_022025-O.jpg",
+        "https://http2.mlstatic.com/D_908250-MLU82331429609_022025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2025-02-08T12:59:14.095Z",
-      "ultima_actualizacion": "2025-06-26T00:46:01.358Z",
+      "ultima_actualizacion": "2025-09-18T04:00:49.286Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5894,6 +6189,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Surtidos"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5913,8 +6216,8 @@
     },
     {
       "id": "MLU715199886",
-      "titulo": "Flores Secas Ramitos X 30 Unidades",
-      "descripcion": "Sin descripción disponible",
+      "titulo": "Flores Secas Ramitos X 30 Unidades Surtidos",
+      "descripcion": null,
       "precio": 690,
       "moneda": "UYU",
       "precio_original": null,
@@ -5922,15 +6225,15 @@
       "condicion": "new",
       "stock_disponible": 1,
       "vendidos": 4,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-715199886-flores-secas-ramitos-x-30-unidades-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_908879-MLU82986377671_032025-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-715199886-flores-secas-ramitos-x-30-unidades-surtidos-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_908879-MLU82986377671_032025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_908879-MLU82986377671_032025-F.jpg"
+        "https://http2.mlstatic.com/D_908879-MLU82986377671_032025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2025-03-10T18:49:52.962Z",
-      "ultima_actualizacion": "2025-08-01T20:42:03.583Z",
+      "ultima_actualizacion": "2025-09-18T04:17:21.562Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5939,6 +6242,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Surtidos"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel Creaciones"
@@ -5958,8 +6269,8 @@
     },
     {
       "id": "MLU717508254",
-      "titulo": "Ramo De Flores Secas",
-      "descripcion": "Sin descripción disponible",
+      "titulo": "Ramo De Flores Secas Tonos Rosados",
+      "descripcion": null,
       "precio": 750,
       "moneda": "UYU",
       "precio_original": null,
@@ -5967,15 +6278,15 @@
       "condicion": "new",
       "stock_disponible": 1,
       "vendidos": 1,
-      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-717508254-ramo-de-flores-secas-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_655893-MLU83071343528_032025-F.jpg",
+      "link_producto": "https://articulo.mercadolibre.com.uy/MLU-717508254-ramo-de-flores-secas-tonos-rosados-_JM",
+      "imagen_principal": "http://http2.mlstatic.com/D_655893-MLU83071343528_032025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_655893-MLU83071343528_032025-F.jpg"
+        "https://http2.mlstatic.com/D_655893-MLU83071343528_032025-O.jpg"
       ],
       "categoria_id": "MLU1643",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2025-03-27T15:25:15.655Z",
-      "ultima_actualizacion": "2025-07-15T00:56:44.729Z",
+      "ultima_actualizacion": "2025-09-18T03:39:33.075Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -5984,6 +6295,14 @@
         "pais": "Uruguay"
       },
       "atributos": [
+        {
+          "nombre": "Color",
+          "valor": "Tonos rosados"
+        },
+        {
+          "nombre": "Motivo de GTIN vacío",
+          "valor": "El producto es una pieza artesanal"
+        },
         {
           "nombre": "Marca",
           "valor": "Mel  Creaciones"
@@ -6004,23 +6323,23 @@
     {
       "id": "MLU779005846",
       "titulo": "Espigas De Trigo 60 Unidades Trigo",
-      "descripcion": "Sin descripción disponible",
+      "descripcion": null,
       "precio": 390,
       "moneda": "UYU",
       "precio_original": null,
       "estado": "active",
       "condicion": "new",
-      "stock_disponible": 3,
-      "vendidos": 0,
+      "stock_disponible": 5,
+      "vendidos": 3,
       "link_producto": "https://articulo.mercadolibre.com.uy/MLU-779005846-espigas-de-trigo-60-unidades-trigo-_JM",
-      "imagen_principal": "https://http2.mlstatic.com/D_682068-MLU87802599915_072025-F.jpg",
+      "imagen_principal": "http://http2.mlstatic.com/D_682068-MLU87802599915_072025-F.jpg",
       "galeria_imagenes": [
-        "https://http2.mlstatic.com/D_682068-MLU87802599915_072025-F.jpg"
+        "https://http2.mlstatic.com/D_682068-MLU87802599915_072025-O.jpg"
       ],
-      "categoria_id": "MLU1643",
+      "categoria_id": "MLU412644",
       "tipo_listado": "gold_special",
       "fecha_creacion": "2025-07-12T23:42:43.450Z",
-      "ultima_actualizacion": "2025-07-12T23:43:23.839Z",
+      "ultima_actualizacion": "2026-01-15T20:50:08.065Z",
       "envio_gratis": false,
       "metodos_envio": [],
       "ubicacion": {
@@ -6042,6 +6361,10 @@
           "valor": "El producto es una pieza artesanal"
         },
         {
+          "nombre": "Nombre de la flor",
+          "valor": "Trigo"
+        },
+        {
           "nombre": "Condición del ítem",
           "valor": "Nuevo"
         },
@@ -6050,20 +6373,32 @@
           "valor": "Mel Creaciones"
         },
         {
+          "nombre": "Formato de venta",
+          "valor": "Pack"
+        },
+        {
           "nombre": "Altura del paquete del seller",
-          "valor": "90 cm"
+          "valor": "67 cm"
         },
         {
           "nombre": "Largo del paquete del seller",
-          "valor": "16 cm"
+          "valor": "6 cm"
+        },
+        {
+          "nombre": "Tipo de paquete del seller",
+          "valor": "Con embalaje adicional"
         },
         {
           "nombre": "Peso del paquete del seller",
-          "valor": "293 g"
+          "valor": "180 g"
         },
         {
           "nombre": "Ancho del paquete del seller",
-          "valor": "26 cm"
+          "valor": "9 cm"
+        },
+        {
+          "nombre": "Unidades por pack",
+          "valor": "60"
         }
       ],
       "garantia": "Garantía del vendedor: 60 días",
