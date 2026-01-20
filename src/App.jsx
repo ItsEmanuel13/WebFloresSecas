@@ -120,8 +120,8 @@ function App() {
   const productosFiltrados = productos
     .filter(producto => {
       const cumpleBusqueda = !busqueda ||
-        producto.titulo.toLowerCase().includes(busqueda.toLowerCase()) ||
-        producto.descripcion.toLowerCase().includes(busqueda.toLowerCase());
+        (producto.titulo && producto.titulo.toLowerCase().includes(busqueda.toLowerCase())) ||
+        (producto.descripcion && producto.descripcion.toLowerCase().includes(busqueda.toLowerCase()));
       const cumplePrecio = !filtroPrecio ||
         (filtroPrecio === 'menor1000' && producto.precio < 1000) ||
         (filtroPrecio === '1000-3000' && producto.precio >= 1000 && producto.precio <= 3000) ||
